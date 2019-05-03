@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Eyasu Getahun Chekole"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -9,17 +9,17 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Research Scientist"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "Institute for Infocomm Research (I2R), A*STAR", url = "https://www.a-star.edu.sg/i2r" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "eyasugc@i2r.a-star.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
