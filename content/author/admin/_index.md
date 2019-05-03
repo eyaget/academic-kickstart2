@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Eyasu Getahun Chekole"
+name = "Eyasu G. Chekole"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -16,7 +16,7 @@ role = "Research Scientist"
 organizations = [ { name = "Institute for Infocomm Research (I2R), A*STAR", url = "https://www.a-star.edu.sg/i2r" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include system and software security."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "eyasugc@i2r.a-star.edu.sg"
@@ -82,6 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Eyasu Getahun Chekole is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of systems and critical infrastructures. 
