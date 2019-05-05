@@ -34,18 +34,18 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "PhD in Cybersecurity"
+  institution = "Singapore University of Technology Design, Singapore"
+  year = 2019
+
+[[education.courses]]
+  course = "MSc in Computer Science"
+  institution = "University of Trento, Italy"
   year = 2012
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "BSc in Computer Science and IT"
+  institution = "Arba Minch University, Ethiopia"
   year = 2008
 
 # Social/Academic Networking
@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Eyasu Getahun Chekole is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of systems and critical infrastructures. 
+Eyasu is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of systems and critical infrastructures. 
