@@ -30,7 +30,7 @@ disqusShortname = ""
 theme = "academic"
 
 # Color theme
-color_theme = "default"
+color_theme = "blue"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
