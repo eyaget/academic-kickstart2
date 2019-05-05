@@ -5,7 +5,7 @@
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Eyasu Getahun Chekole"
+title = "Eyasu G. Chekole"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -30,7 +30,7 @@ disqusShortname = ""
 theme = "academic"
 
 # Color theme
-color_theme = "blue"
+color_theme = "default"
 
 # Get last modified date for content from Git?
 enableGitInfo = false
