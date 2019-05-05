@@ -23,9 +23,9 @@ email = "eyasugc@i2r.a-star.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
-  "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "System and software security",
+  "Critical infrastructures security",
+  "Applied cryptography"
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Eyasu is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of systems and critical infrastructures. 
+Eyasu is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of computer systems and critical infrastructures. 
