@@ -82,4 +82,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Eyasu is a research scientist at Institute for Infocomm Research (I2R), A*STAR. His research interests include privacy and security of computer systems and critical infrastructures. 
+I am a research scientist at Institute for Infocomm Research (I2R), A*STAR. My research interests include privacy and security of computer systems and critical infrastructures. 
