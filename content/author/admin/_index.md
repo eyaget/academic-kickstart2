@@ -25,9 +25,11 @@ email = "eyasugc@i2r.a-star.edu.sg"
 interests = [
   "System and software security",
   "Cyber-physical security",
-  "IoT security"
+  "IoT security",
   "Security of critical infrastructures",
-  "Applied cryptography"
+  "Applied cryptography",
+  "Access control in cloud computing and distributed systems",
+  "Mobile security"
 ]
 
 # Organizational groups that you belong to (for People widget)
