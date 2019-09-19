@@ -24,7 +24,9 @@ email = "eyasugc@i2r.a-star.edu.sg"
 # List (academic) interests or hobbies
 interests = [
   "System and software security",
-  "Critical infrastructures security",
+  "Cyber-physical security",
+  "IoT security"
+  "Security of critical infrastructures",
   "Applied cryptography"
 ]
 
