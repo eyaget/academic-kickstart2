@@ -19,7 +19,7 @@ organizations = [ { name = "Institute for Infocomm Research (I2R), A*STAR", url 
 bio = "My research interests include system and software security."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "eyasugc@i2r.a-star.edu.sg"
+email = "eyasu_chekole@i2r.a-star.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
@@ -39,7 +39,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Cybersecurity"
+  course = "PhD in Computer Science (specialized in Cybersecurity)"
   institution = "Singapore University of Technology Design, Singapore"
   year = 2019
 
@@ -87,4 +87,4 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I am a research scientist at Institute for Infocomm Research (I2R), A*STAR. My research interests include privacy and security of computer systems and critical infrastructures. 
+I am a research scientist at Institute for Infocomm Research (I2R), A*STAR. I received a PhD degree (2019) in Computer Science (with a specialization in Cybersecurity) from Singapore University of Technology and Design, supervised by Prof. Sudipta Chattopadhyay, Prof. Martin Ochoa and Dr. Huaqun Guo. I also received an MSc (2012) from University of Trento (supervised by Prof. Bruno Crispo) and a BSc (2008) from Arba Minch University, both in in Computer science. My research interests include privacy and security of computer systems and critical infrastructures. 
