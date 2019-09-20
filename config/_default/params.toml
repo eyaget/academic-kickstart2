@@ -50,24 +50,25 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "eyasugc@i2r.a-star.edu.sg"
+email = "eyasu_chekole@i2r.a-star.edu.sg"
 phone = ""
-address = "1 Fusinopolis Way, Connexis South Tower, Singapore"
+address = "1 Fusinopolis Way, Connexis South Tower, #10-105, Singapore 138632"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = ""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "facebook", icon_pack = "fab", name = "Add Me", link = "https://www.facebook.com/eyasu.getahun"},
+  icon = "twitter", icon_pack = "fab", name = "Follow Me", link = "https://twitter.com/EyasuGetahun"},
+  #icon = "linkedin", icon_pack = "fab", name = "Follow Me", link = "https://twitter.com/EyasuGetahun"},
+  #{icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  #{icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
 
