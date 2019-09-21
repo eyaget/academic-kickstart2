@@ -16,7 +16,7 @@ role = "Research Scientist"
 organizations = [ { name = "Institute for Infocomm Research (I2R), A*STAR", url = "https://www.a-star.edu.sg/i2r" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include system and software security."
+bio = "Research scientist in Cybersecurity"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "eyasu_chekole@i2r.a-star.edu.sg"
@@ -87,8 +87,8 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I received a PhD degree (2019) in Computer Science (with a specialization in Cybersecurity) from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), supervised by Prof. [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/), [Prof. Martin Ochoa](https://martin-ochoa.github.io/) and Dr. Huaqun Guo. I also received an MSc (2012) from [University of Trento (UNITN)](https://www.unitn.it/en), supervised by [Prof. Bruno Crispo](https://distrinet.cs.kuleuven.be/people/bruno), and a BSc (2008) from Arba Minch University, both in in Computer science. 
+I received a PhD degree (2019) in Computer Science (with a specialization in Cybersecurity) from [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/), supervised by Prof. [Sudipta Chattopadhyay](https://sudiptac.bitbucket.io/), [Prof. Martin Ochoa](https://martin-ochoa.github.io/) and Dr. Huaqun Guo. I also received an MSc (2012) from [University of Trento (UNITN)](https://www.unitn.it/en), supervised by [Prof. Bruno Crispo](https://distrinet.cs.kuleuven.be/people/bruno), and a BSc (2008) from Arba Minch University, both in in Computer Science. 
 
-Currently, I am a research scientist in cybersecurity at the [Institute for Infocomm Research (I2R), A*STAR](https://www.a-star.edu.sg/i2r) (in Singapore). Before joining SUTD (as a PhD student), I worked with Femar Consulting s.r.l (in Italy) as a Software Engineer. Prior to that, I worked as an assistant researcher in cybersecurity at the [Security \& Trust (ST)](https://st.fbk.eu/) unit of [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/) (in Italy). Previously, I was a Software Engineer (in cybersecurity) at the [Information Network Security Agency (INSA)](https://www.insa.gov.et/) (in Ethiopia). 
+Currently, I am a Research Scientist in Cybersecurity at the [Institute for Infocomm Research (I2R), A*STAR](https://www.a-star.edu.sg/i2r) (in Singapore). Before joining SUTD (as a PhD student), I worked with Femar Consulting s.r.l (in Italy) as a Software Engineer. Prior to that, I worked as an Assistant Researcher in Cybersecurity at the [Security \& Trust (ST)](https://st.fbk.eu/) unit of [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/) (in Italy). Previously, I was a Software Engineer (in Cybersecurity) at the [Information Network Security Agency (INSA)](https://www.insa.gov.et/) (in Ethiopia). 
 
 <!-- I am interested in include privacy and security of computer systems and critical infrastructures.-->
