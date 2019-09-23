@@ -40,7 +40,7 @@ user_groups = ["Researchers", "Visitors"]
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD in Computer Science (specialized in Cybersecurity)"
-  institution = "Singapore University of Technology Design, Singapore"
+  institution = "Singapore University of Technology and Design, Singapore"
   year = 2019
 
 [[education.courses]]
