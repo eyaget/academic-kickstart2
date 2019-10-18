@@ -18,8 +18,8 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *CyberICPS@ESORICS*
+publication_short: In *CyberICPS*
 
 
 # Summary. An optional shortened abstract.
@@ -32,7 +32,7 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: '#'
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
