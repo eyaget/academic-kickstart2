@@ -1,12 +1,12 @@
 ---
-title: "Enforcing Memory Safety in Cyber-Physical Systems"
-authors:
-- Eyasu Getahun Chekole
-- John Henry Castellanos
-- Martin Ochoa
-- David K. Y. Yau
-date: "2017-09-15T00:00:00Z"
-doi: ""
+#title: "Enforcing Memory Safety in Cyber-Physical Systems"
+#authors:
+#- Eyasu Getahun Chekole
+#- John Henry Castellanos
+#- Martin Ochoa
+#- David K. Y. Yau
+#date: "2017-09-15T00:00:00Z"
+#doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
