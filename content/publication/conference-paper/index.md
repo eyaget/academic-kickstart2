@@ -1,5 +1,5 @@
 ---
-title: "Enforcing Memory Safety in Cyber-Physical Systems"
+title: "Eenforcing Memory Safety in Cyber-Physical Systems"
 authors:
 - Eyasu Getahun Chekole
 - John Henry Castellanos
