@@ -25,8 +25,8 @@ email = "eyasu_chekole@i2r.a-star.edu.sg"
 interests = [
   "Software & System Security",
   "Industrial Control & Cyber-Physical Systems Security",
-  "IoT & Embedded Systems Security",
-  "Security of Critical Infrastructures",
+  "IoT Security",
+ # "Security of Critical Infrastructures",
   "Applied Cryptography",
   "Access Control Models",
   "Privacy-Preserving Approaches",
