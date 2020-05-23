@@ -23,14 +23,14 @@ email = "eyasu_chekole@i2r.a-star.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
-  "System and software security",
-  "Cyber-physical and industrial control systems security",
-  "IoT security",
-  "Security of critical infrastructures",
-  "Applied cryptography",
-  "Access control in cloud computing and distributed systems",
-  "Privacy-preserving approaches",
-  "Mobile security"
+  "Software & System Security",
+  "Industrial Control & Cyber-Physical Systems Security",
+  "IoT & Embedded Systems Security",
+  "Security of Critical Infrastructures",
+  "Applied Cryptography",
+  "Access Control Models",
+  "Privacy-Preserving Approaches",
+  "Mobile Security"
 ]
 
 # Organizational groups that you belong to (for People widget)
