@@ -3,11 +3,11 @@ authors:
 - Eyasu Getahun
 - Robert Ford
 title: "*An example conference paper*"
-date: "2013-07-01T00:00:00Z"
+date: "2013-07-01"
 doi: "www.fcf.com"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-01-01"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
