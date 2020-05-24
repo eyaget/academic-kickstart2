@@ -73,7 +73,7 @@ Click the *Slides* button above to demo Academic's Markdown slides feature.
 Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 ---
-title: "An example journal article"
+title: "An example journal article 2"
 authors:
 - admin
 - Robert Ford
