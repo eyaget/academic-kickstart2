@@ -1,7 +1,7 @@
 ---
 authors:
--Eyasu Getahun
--Robert Ford
+- Eyasu Getahun
+- Robert Ford
 title: "An example conference paper" 
 date: "2013-07-01T00:00:00Z"
 doi: ""
