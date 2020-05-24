@@ -1,7 +1,5 @@
 ---
-authors:
-- admin
-- Robert Ford
+authors = [Eyasu Getahun", "Robert Ford"]
 title: [An example conference paper](http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf)
 
 date: "2013-07-01T00:00:00Z"
