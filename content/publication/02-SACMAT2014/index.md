@@ -21,7 +21,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Proceedings of the 19th ACM Symposium on Access Control Models and Technologies*"
-publication_short = "In *SACMAT*"
+publication_short = "In *SACMAT, ACM*"
 
 # Abstract and optional shortened version.
 abstract = ""
