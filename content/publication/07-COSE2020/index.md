@@ -19,7 +19,7 @@ publishDate: "2020-04-13"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Transaction of *Computers & Security (ELSEVIER)*"
+publication: "*Transaction of Computers & Security (Elsvier)*"
 publication_short: In *COSE*
 
 abstract: 
@@ -56,8 +56,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+# projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
