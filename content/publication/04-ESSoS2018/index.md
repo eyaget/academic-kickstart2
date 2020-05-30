@@ -18,8 +18,8 @@ publishDate: "2018-06-26"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the International Symposium on Engineering Secure Software and Systems (ESSoS'18)*
-publication_short: In *ESSoS*
+publication: "In *Proceedings of the International Symposium on Engineering Secure Software and Systems (ESSoS'18), Springer*"
+publication_short: "*Proceedings of the International Symposium on Engineering Secure Software and Systems (ESSoS), Springer*"
 
 abstract: 
 
