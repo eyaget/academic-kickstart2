@@ -5,7 +5,7 @@ authors:
 - S. Chattopadhyay
 - M. Ochoa 
 - H. Guo
-title: "Taming the War in Memory: {A} Resilient Mitigation Strategy Against Memory Safety Attacks in CPS"
+title: "Taming the War in Memory: A Resilient Mitigation Strategy Against Memory Safety Attacks in CPS"
 date: "2018-09-20"
 doi: "https://arxiv.org/abs/1809.07477v2"
 
@@ -20,7 +20,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *CoRR abs*
-publication_short: In *CoRR*
+publication_short: In *CoRR, arXiv*
 
 abstract: 
 
