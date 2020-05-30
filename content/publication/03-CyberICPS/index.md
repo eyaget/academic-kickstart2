@@ -19,7 +19,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In *Proceedings of the ESORICS workshop on the Security of Industrial Control and Cyber-Physical Systems (CyberICPS)*"
-publication_short: "*Proceedings of the ESORICS workshop on the Security of Industrial Control and Cyber-Physical Systems (CyberICPS), Springer*"
+publication_short: "*Proceedings of the ESORICS workshop on Security of Industrial Control and Cyber-Physical Systems (CyberICPS), Springer*"
 
 abstract: 
 
