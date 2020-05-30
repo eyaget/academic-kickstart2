@@ -1,13 +1,13 @@
 ---
 authors:
-- Eyasu Getahun
-- Robert Ford
-title: "*An example conference paper*"
-date: "2013-07-01"
-doi: "www.fcf.com"
+- E. G. Chekole
+- H. Guo
+title: "*ICS-SEA: Formally Modeling the Conflicting Design Constraints in ICS*"
+date: "2019-12-10"
+doi: "https://doi.org/10.1145/3372318.3372325"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01"
+publishDate: "2019-12-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,8 +16,8 @@ publishDate: "2017-01-01"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *Proceedings of the Fifth Annual Industrial Control System Security (ICSS) Workshop*
+publication_short: In *ICSS*
 
 abstract: 
 
@@ -26,7 +26,7 @@ summary:
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 - name: Custom Link
