@@ -2,7 +2,7 @@
 authors:
 - E. G. Chekole
 - H. Guo
-title: "*ICS-SEA: Formally Modeling the Conflicting Design Constraints in ICS*"
+title: "ICS-SEA: Formally Modeling the Conflicting Design Constraints in ICS"
 date: "2019-12-10"
 doi: "https://doi.org/10.1145/3372318.3372325"
 
