@@ -20,7 +20,7 @@ authors = ["A. Armando", "R. Carbone", "E. G. Chekole", "C. Petrazzuolo", "A. Ra
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Smart Grid Security*."
+publication = "In *Smart Grid Security (SmartGridSec'14)*"
 publication_short = "In *SmartGridSec*"
 
 # Abstract and optional shortened version.
