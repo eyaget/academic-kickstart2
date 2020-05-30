@@ -54,7 +54,7 @@ url_source = ""
 # url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
-math = true
+ math = true
 
 # Does the content use source code highlighting?
 highlight = true
@@ -67,4 +67,3 @@ caption = "My caption 😄"
 
 +++
 
-Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page.
