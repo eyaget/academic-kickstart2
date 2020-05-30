@@ -3,6 +3,7 @@ title = "Selective Release of Smart Metering Data in Multi-domain Smart Grids"
 
 # Date first published.
 date = "2014-02-26"
+doi = "https://doi.org/10.1007/978-3-319-10329-7_4"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["A. Armando", "R. Carbone", "E. G. Chekole", "C. Petrazzuolo", "A. Ranalli", "S. Ranise"]
