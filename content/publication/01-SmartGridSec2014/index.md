@@ -21,7 +21,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "In *Smart Grid Security (SmartGridSec'14)*"
-publication_short = "In *SmartGridSec*"
+publication_short = "Proceedings of the Smart Grid Security Workshop (SmartGridSec), Springer*"
 
 # Abstract and optional shortened version.
 abstract = ""
