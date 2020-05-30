@@ -16,8 +16,8 @@ publishDate: "2019-12-10"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the Fifth Annual Industrial Control System Security (ICSS) Workshop*
-publication_short: In *ICSS*
+publication: "In *Proceedings of the Fifth Annual Industrial Control System Security (ICSS) Workshop*"
+publication_short: "*Proceedings of the Fifth Annual Industrial Control Systems Security (ICSS) Workshop, co-located with ACSAC, ACM*"
 
 abstract: 
 
