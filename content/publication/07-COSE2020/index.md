@@ -20,7 +20,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Computers & Security journal, Elsevier*"
-publication_short: *Computers & Security, Elsevier*
+publication_short: *COSEE*
 
 abstract: 
 
