@@ -19,8 +19,8 @@ publishDate: "2020-04-13"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transaction of Computers & Security (Elsvier)*"
-publication_short: In *COSE*
+publication: "*Computers & Security journal, Elsevier*"
+publication_short: *Computers & Security, Elsevier*
 
 abstract: 
 
