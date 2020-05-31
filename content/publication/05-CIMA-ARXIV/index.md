@@ -19,8 +19,8 @@ publishDate: "2018-06-26"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *CoRR abs*
-publication_short: In *CoRR, arXiv*
+publication: "In *CoRR abs, arXiv*"
+publication_short: "In *CoRR abs, arXiv*"
 
 abstract: 
 
