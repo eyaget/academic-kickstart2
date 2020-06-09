@@ -2,8 +2,8 @@
 title: Services
 summary: 
 tags:
-- xyz
-- abc
+#- xyz
+#- abc
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -14,6 +14,6 @@ image:
   focal_point: Smart
 
 List:
-+ Item 1
-+ Item 2
+- Item 1
+- Item 2
 --- 
