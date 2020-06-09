@@ -13,7 +13,7 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 
-Lists:
+List:
 * Item 1
 * Item 2
 --- 
