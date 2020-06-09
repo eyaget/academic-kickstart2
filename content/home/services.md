@@ -1,10 +1,10 @@
 +++
 # Tag Cloud widget.
-widget = "cloud_widget"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Professional Services"
+title = "Services"
 subtitle = ""
 +++
