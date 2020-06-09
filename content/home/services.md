@@ -8,9 +8,9 @@ weight = 40  # Order that this section will appear.
 title = "Professional Services"
 subtitle = ""
 
-Review:
+Review
 
-* Conference: 
-* Journal: 
+* Conference 
+* Journal 
 
 +++
