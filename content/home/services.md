@@ -10,7 +10,6 @@ subtitle = ""
 
 Review
 
-* Conference 
-* Journal 
-
+Conference 
+Journal
 +++
