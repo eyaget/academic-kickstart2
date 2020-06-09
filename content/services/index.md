@@ -12,8 +12,8 @@ external_link: http://example.org
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
----
 
 Lists:
 * Item 1
 * Item 2
+--- 
