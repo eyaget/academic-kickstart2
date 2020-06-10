@@ -32,10 +32,11 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#  url: http://example.org
-url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
-#url_pdf: pdf/cose-final.pdf
+ - name: Site
+   url: https://www.sciencedirect.com/science/article/pii/S0167404820301061
+   
+#url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
+url_pdf: pdf/COSE-CIMA2020
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
