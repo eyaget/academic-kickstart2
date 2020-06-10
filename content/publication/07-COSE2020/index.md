@@ -32,9 +32,12 @@ tags:
 featured: false
 
 links:
- - name: Site
+ - name: Publication Site
    url: https://www.sciencedirect.com/science/article/pii/S0167404820301061
-   
+
+- name: CVE-2018-20818
+  url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20818
+  
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
 url_pdf: pdf/COSE-CIMA2020
 #url_code: '#'
