@@ -37,7 +37,7 @@ links:
  - name: CVE-2018-20818
    url: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-20818
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
-url_pdf: pdf/COSE-CIMA2020
+url_pdf: pdf/COSE-CIMA2020.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
