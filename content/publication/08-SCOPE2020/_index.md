@@ -5,7 +5,7 @@ authors:
 - S. Chattopadhyay
 title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
 date: "2020-12-23"
-doi: "https://doi.org/10.1016/j.cose.2020.101832"
+doi: "https://arxiv.org/abs/2012.12529"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-23"
