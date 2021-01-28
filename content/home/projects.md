@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Memory-Safety
     tag: Memory-Safety
+  - name: SecSES
+    tag: SecSES
   - name: Other
     tag: Demo
 
