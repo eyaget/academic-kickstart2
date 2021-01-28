@@ -15,10 +15,14 @@ image:
 links:
 - icon: ""
   icon_pack: fab
+  name: CIMA
+  url: https://www.sciencedirect.com/science/article/pii/S0167404820301061
+- icon: ""
+  icon_pack: fab
   name: SCOPE
   url: https://arxiv.org/abs/2012.12529
 url_code: ""
-url_pdf: "pdf/SCOPE-Preprint.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 
