@@ -1,4 +1,4 @@
-+++
+---
 title: Services
 summary: 
 tags:
@@ -16,4 +16,5 @@ image:
 List:
 - Item 1
 - Item 2
-+++ 
+
+---
