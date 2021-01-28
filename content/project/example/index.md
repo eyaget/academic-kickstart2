@@ -1,5 +1,5 @@
 ---
-title: Enforcing Memory-Safety
+title: Enforcing Memory-Safety in CPS
 summary: Enforcing Memory-Safety in Critical Infrastructures.
 tags:
 - Memory-Safety
@@ -15,10 +15,10 @@ image:
 links:
 - icon: ""
   icon_pack: fab
-  name: Reference
-  url: https://www.sciencedirect.com/science/article/pii/S0167404820301061
+  name: SCOPE
+  url: https://arxiv.org/abs/2012.12529
 url_code: ""
-url_pdf: ""
+url_pdf: "pdf/SCOPE-Preprint.pdf"
 url_slides: ""
 url_video: ""
 
