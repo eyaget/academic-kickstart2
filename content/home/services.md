@@ -1,4 +1,4 @@
----
++++
 # Tag Cloud widget.
 # widget = "tag_cloud"  # See https://sourcethemes.com/academic/docs/page-builder/
 widget = "tag_cloud"
@@ -9,4 +9,4 @@ weight = 40  # Order that this section will appear.
 title = "Services"
 subtitle = ""
 
----
++++
