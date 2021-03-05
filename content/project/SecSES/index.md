@@ -1,6 +1,6 @@
 ---
 title: Secure Smart Energy Systems
-summary: Enforcing Memory-Safety in Critical Infrastructures.
+summary: Authentication and authorization of privacy-sensitive data for an energy box in a smart home gateway.
 tags:
 - SecSES
 date: "2013-06-20T00:00:00Z"
@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Implementation of security and privacy related features for an energy box in a smart home gateway.
+Implementation of security and privacy aspects of smart metering data for an energy box in a smart home gateway.
