@@ -2,8 +2,8 @@
 title: Resilience Against Compromised Nodes
 summary: Resilience Against Compromised Cryptographic Nodes
 tags:
-- Memory-Safety
-date: "2017-04-27T00:00:00Z"
+- ReaCoN
+date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
