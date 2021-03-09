@@ -8,7 +8,7 @@ title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
 #doi: "https://arxiv.org/abs/2012.12529"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-03-08"
+#publishDate: "2021-03-08"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
