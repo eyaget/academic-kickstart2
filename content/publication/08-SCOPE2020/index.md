@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
- -name: Preprint
-   url: "https://arxiv.org/abs/2012.12529"
+ # -name: Preprint
+ #  url: "https://arxiv.org/abs/2012.12529"
  - name: Publication Site
    url: "https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
