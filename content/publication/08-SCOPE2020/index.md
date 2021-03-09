@@ -5,7 +5,7 @@ authors:
 - S. Chattopadhyay
 title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
 date: "2021-03-08"
-#doi: "https://arxiv.org/abs/2012.12529"
+# doi: "https://arxiv.org/abs/2012.12529"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-23"
@@ -17,8 +17,8 @@ publishDate: "2020-12-23"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-#publication: "In *CoRR abs, arXiv*"
-#publication_short: "In *CoRR abs, arXiv*"
+# publication: "In *CoRR abs, arXiv*"
+# publication_short: "In *CoRR abs, arXiv*"
 publication: "International Journal of Critical Infrastructure Protection"
 publication_short: "IJCIP"
 
