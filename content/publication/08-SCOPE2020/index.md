@@ -4,8 +4,8 @@ authors:
 - M. Ochoa
 - S. Chattopadhyay
 title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
-date: "2020-12-23"
-doi: "https://arxiv.org/abs/2012.12529"
+date: "2021-03-08"
+#doi: "https://arxiv.org/abs/2012.12529"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-12-23"
@@ -17,8 +17,10 @@ publishDate: "2020-12-23"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In *CoRR abs, arXiv*"
-publication_short: "In *CoRR abs, arXiv*"
+#publication: "In *CoRR abs, arXiv*"
+#publication_short: "In *CoRR abs, arXiv*"
+publication: "International Journal of Critical Infrastructure Protection"
+publication_short: "IJCIP"
 
 abstract: "Cyber-Physical Systems (CPS) are being widely adopted in critical infrastructures, such as smart grids, nuclear plants, water systems, transportation systems, manufacturing and healthcare services, among others. However, the increasing prevalence of cyberattacks targeting them raises a growing security concern in the domain. In particular, memory-safety attacks, that exploit memory-safety vulnerabilities, constitute a major attack vector against real-time control devices in CPS. Traditional IT countermeasures against such attacks have limitations when applied to the CPS context: they typically incur in high runtime overheads; which conflicts with real-time constraints in CPS and they often abort the program when an attack is detected, thus harming availability of the system, which in turn can potentially result in damage to the physical world. In this work, we propose to enforce a full-stack memory-safety (covering user-space and kernel-space attack surfaces) based on secure compiling of PLCs to detect memory-safety attacks in CPS. Furthermore, to ensure availability, we enforce a resilient mitigation technique that bypasses illegal memory access instructions at runtime by dynamically instrumenting low-level code. We empirically measure the computational overhead caused by our approach on two experimental settings based on real CPS. The experimental results show that our approaches effectively and efficiently detects and mitigates memory-safety attacks in realistic CPS."
 
@@ -30,8 +32,10 @@ tags:
 featured: false
 
 links:
- - name: Publication Site
+ -name: Preprint
    url: https://arxiv.org/abs/2012.12529
+ - name: Publication Site
+   url: https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
 url_pdf: pdf/SCOPE-Preprint.pdf
 #url_code: '#'
