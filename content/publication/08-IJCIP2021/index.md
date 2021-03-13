@@ -5,7 +5,7 @@ authors:
 - S. Chattopadhyay
 title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
 date: "2021-03-08"
-#doi: "https://arxiv.org/abs/2012.12529"
+doi: "https://doi.org/10.1016/j.ijcip.2021.100431"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-03-08"
@@ -35,7 +35,7 @@ links:
  - name: Preprint
    url: "https://arxiv.org/abs/2012.12529"
  - name: Publication Site
-   url: "https://www.journals.elsevier.com/international-journal-of-critical-infrastructure-protection"
+   url: "https://www.sciencedirect.com/science/article/abs/pii/S1874548221000238"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
 url_pdf: pdf/SCOPE-Preprint.pdf
 #url_code: '#'
