@@ -10,6 +10,18 @@ simple_list = true
 
 # Order that this section will appear in.
 weight = 90 
+
+interests = [
+  "System & Software Security",
+  "Critical Infrastructures (ICS/CPS/IoT) Security",
+  # "Industrial Control & Cyber-Physical Systems Security",
+  # "IoT Security",
+  "Mobile Security",
+  "Applied Cryptography",
+  "Blockchain",
+  "Access Control Models",
+  "Privacy-Preserving Approaches"
+]
 +++
 - Achievement1
 - Achievement2
