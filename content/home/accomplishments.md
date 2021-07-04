@@ -6,10 +6,11 @@
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Accomplishments"
 subtitle = "List of things I am proud of"
-simple_list = true
+simple_list = "true"
 
 # Order that this section will appear in.
 weight = 90
+
 - Achievement1
 - Achievement2
   - Merit Certificate
