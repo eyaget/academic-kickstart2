@@ -9,10 +9,7 @@ subtitle = "List of things I am proud of"
 simple_list = true
 
 # Order that this section will appear in.
-weight = 90
-
-design:
-  columns: '2' 
+weight = 90 
 +++
 - Achievement1
 - Achievement2
