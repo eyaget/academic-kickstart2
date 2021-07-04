@@ -16,7 +16,7 @@ role = "Research Fellow in Cybersecurity"
 organizations = [ { name = "Singapore University of Technology and Design (SUTD)", url = "https://www.sutd.edu.sg/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Research Scientist in Cybersecurity"
+bio = "Researcher in Cybersecurity"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "eyasu_chekole@i2r.a-star.edu.sg"
