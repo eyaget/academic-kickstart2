@@ -16,7 +16,7 @@ links:
 - icon: ""
   icon_pack: fab
   name: SecSES
-  url: https://st.fbk.eu/technologies/secses
+  url: https://st.fbk.eu/tools/SecSES
 url_code: ""
 url_pdf: ""
 url_slides: ""
