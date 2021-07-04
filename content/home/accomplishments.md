@@ -10,8 +10,9 @@ subtitle = "List of things I am proud of"
 # Order that this section will appear in.
 weight = 90
 
-- Achievement1
-- Achievement2
-- Merit Certificate
-- Work in progress. Visit soon !
+List:
+  - Achievement1
+  - Achievement2
+  - Merit Certificate
+  - Work in progress. Visit soon !
 +++
