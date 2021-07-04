@@ -16,21 +16,22 @@ role = "Research Fellow in Cybersecurity"
 organizations = [ { name = "Singapore University of Technology and Design (SUTD)", url = "https://www.sutd.edu.sg/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Researcher in Cybersecurity"
+# bio = "Researcher in Cybersecurity"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "eyasu_chekole@i2r.a-star.edu.sg"
+email = "eyasu_chekole@sutd.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
-  "Software & System Security",
-  "Industrial Control & Cyber-Physical Systems Security",
-  "IoT Security",
- # "Security of Critical Infrastructures",
+  "System & Software Security",
+  "Critical Infrastructures (ICS/CPS/IoT) Security",
+  # "Industrial Control & Cyber-Physical Systems Security",
+  # "IoT Security",
+  "Mobile Security",
   "Applied Cryptography",
+  "Blockchain",
   "Access Control Models",
-  "Privacy-Preserving Approaches",
-  "Mobile Security"
+  "Privacy-Preserving Approaches"
 ]
 
 # Organizational groups that you belong to (for People widget)
