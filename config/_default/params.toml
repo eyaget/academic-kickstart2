@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "eyasu_chekole@i2r.a-star.edu.sg"
+email = "eyasu_chekole@sutd.edu.sg"
 phone = ""
-address = "1 Fusinopolis Way, Connexis South Tower, #10-105, Singapore 138632"
+address = "8 Somapah Rd, Singapore 487372"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
