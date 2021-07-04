@@ -1,4 +1,4 @@
----
++++
  widget = "accomplishments"
  active = true
  date = 2016-04-20T00:00:00
@@ -10,7 +10,10 @@ simple_list = true
 
 # Order that this section will appear in.
 weight = 90
----
+
+design:
+  columns: '2' 
++++
 - Achievement1
 - Achievement2
   - Merit Certificate
