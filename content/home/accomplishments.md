@@ -50,9 +50,8 @@ date_format = "Jan 2006"
   
 [[item]]  
   description = "Colors"
-  
-    * Red
-    * Black
-    * Blue
+    - Red
+    - Black
+    - Blue
 
 +++
