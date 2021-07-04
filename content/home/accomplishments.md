@@ -49,7 +49,7 @@ date_format = "Jan 2006"
   description = ""
   
 [[item]]  
-  Colors:
+  description = "Colors"
   
     * Red
     * Black
