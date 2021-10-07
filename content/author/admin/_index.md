@@ -93,8 +93,4 @@ I earned my PhD in *Computer Science* (specifically in *Cybersecurity*) from [Si
 Currently, I am a Research Fellow in Cybersecurity at [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (in Singapore). Recently, I was a *Research Scientist* in Cybersecurity at the [Institute for Infocomm Research (I2R), A*STAR](https://www.a-star.edu.sg/i2r) (in Singapore). Previously, I was a *Software Engineer* at [Femar Consulting s.r.l](https://www.femarconsulting.com/) (in Italy), an *Assistant Researcher* in Cybersecurity at the [Security \& Trust (ST)](https://st.fbk.eu/) unit of [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/) (in Italy), a Research Intern at [Advanced Digital Sciences Center (ADSC)](http://adsc.illinois.edu/) (in Singapore), and a *Software Engineer* in Cybersecurity at [Information Network Security Agency (INSA)](https://www.insa.gov.et/) (in Ethiopia). 
 
 
-News:
-* Test1
-* Test 2
-
 <!-- I am interested in include privacy and security of computer systems and critical infrastructures.-->
