@@ -1,72 +1,96 @@
 +++
-title = "Selective Release of Smart Metering Data in Multi-domain Smart Grids"
+# Display name
+name = "Eyasu G. Chekole"
 
-# Date first published.
-date = "2014-02-26"
-doi = "https://doi.org/10.1007/978-3-319-10329-7_4"
+# Username (this should match the folder name)
+authors = ["admin"]
 
-# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A. Armando", "R. Carbone", "E. G. Chekole", "C. Petrazzuolo", "A. Ranalli", "S. Ranise"]
+# Is this the primary user of the site?
+superuser = true
 
-# Publication type.
-# Legend:
-# 0 = Uncategorized
-# 1 = Conference proceedings
-# 2 = Journal
-# 3 = Work in progress
-# 4 = Technical report
-# 5 = Book
-# 6 = Book chapter
-publication_types = ["1"]
+# Role/position
+role = "Research Fellow in Cybersecurity"
 
-# Publication name and optional abbreviated version.
-publication = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec), co-located with ESSoS, Springer*"
-publication_short = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec), co-located with ESSoS, Springer*"
+# Organizations/Affiliations
+#   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
+organizations = [ { name = "Singapore University of Technology and Design (SUTD)", url = "https://www.sutd.edu.sg/" } ]
 
-# Abstract and optional shortened version.
-abstract = "In the context of energy efficiency, smart metering solutions are receiving growing attention as they support the automatic collection of (fine-grained) consumption data of appliances. While the capability of a stakeholder (such as a consumer, an utility, or a third-party service) to access smart metering data can give rise to innovative services for users, it makes the control of data release and usage significantly more complex. It is thus extremely important to put in place an adequate access control mechanism that takes into account the authorization requirements of the various stakeholders. To address this issue, we propose a framework based on the Attribute Based Access Control model for the selective release of smart metering data in cloud-based solutions for smart grids. We applied our framework to a scenario proposed by Energy@Home, a non-profit association of companies with the mission of developing and promoting techniques for energy efficiency in smart homes. As a proof of concept, we implemented our approach on top of the open-source Spring Security framework."
+# Short bio (displayed in user profile at end of posts)
+# bio = "Researcher in Cybersecurity"
 
-abstract_short = ""
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email = "eyasu_chekole@sutd.edu.sg"
 
-# Featured image thumbnail (optional)
-image_preview = ""
+# List (academic) interests or hobbies
+interests = [
+  "System & Software Security",
+  "Critical Infrastructures (ICS/CPS/IoT) Security",
+  # "Industrial Control & Cyber-Physical Systems Security",
+  # "IoT Security",
+  "Mobile Security",
+  "Applied Cryptography",
+  "Blockchain",
+  "Access Control Models",
+  "Privacy-Preserving Approaches"
+]
 
-# Is this a selected publication? (true/false)
-selected = true
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups = ["Researchers", "Visitors"]
 
-# Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-#   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
-projects = []
+# List qualifications (such as academic degrees)
+[[education.courses]]
+  course = "PhD in Computer Science (specialized in Cybersecurity)"
+  institution = "Singapore University of Technology and Design, Singapore"
+  year = 2019
 
-# Links (optional).
-url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-10329-7_4"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+[[education.courses]]
+  course = "MSc in Computer Science"
+  institution = "University of Trento, Italy"
+  year = 2012
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+[[education.courses]]
+  course = "BSc in Computer Science and IT"
+  institution = "Arba Minch University, Ethiopia"
+  year = 2008
 
-# Does the content use math formatting?
- math = true
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# Does the content use source code highlighting?
-highlight = true
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-# Featured image
-# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-[header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption 😄"
+[[social]]
+  icon = "twitter"
+  icon_pack = "fab"
+  link = "https://twitter.com/EyasuGetahun"
+
+[[social]]
+  icon = "google-scholar"
+  icon_pack = "ai"
+  link = "https://scholar.google.com/citations?user=dqyIUskAAAAJ&hl=en"
+
+[[social]]
+  icon = "github"
+  icon_pack = "fab"
+  link = "https://github.com/eyaget"
+
+# Link to a PDF of your resume/CV from the About widget.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[social]]
+#   icon = "cv"
+#   icon_pack = "ai"
+#   link = "files/cv.pdf"
 
 +++
 
+I earned my PhD in *Computer Science* (specifically in *Cybersecurity*) from [Singapore University of Technology and Design](https://www.sutd.edu.sg/) in 2019 (supervised by [Prof. Sudipta Chattopadhyay](https://asset-group.github.io/), [Prof. Martin Ochoa](https://martin-ochoa.github.io/) and [Dr. Huaqun Guo](https://www.linkedin.com/in/huaqun-guo-40677536/)), my MSc in *Computer Science* from [University of Trento](https://www.unitn.it/en) in 2012 (supervised by [Prof. Bruno Crispo](https://distrinet.cs.kuleuven.be/people/bruno)), and my BSc in *Computer Science & IT* from [Arba Minch University](https://www.amu.edu.et/) in 2008. 
 
+Currently, I am a Research Fellow in Cybersecurity at [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (in Singapore). Recently, I was a *Research Scientist* in Cybersecurity at the [Institute for Infocomm Research (I2R), A*STAR](https://www.a-star.edu.sg/i2r) (in Singapore). Previously, I was a *Software Engineer* at [Femar Consulting s.r.l](https://www.femarconsulting.com/) (in Italy), an *Assistant Researcher* in Cybersecurity at the [Security \& Trust (ST)](https://st.fbk.eu/) unit of [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/) (in Italy), a Research Intern at [Advanced Digital Sciences Center (ADSC)](http://adsc.illinois.edu/) (in Singapore), and a *Software Engineer* in Cybersecurity at [Information Network Security Agency (INSA)](https://www.insa.gov.et/) (in Ethiopia). 
+
+
+<!-- I am interested in include privacy and security of computer systems and critical infrastructures.-->
