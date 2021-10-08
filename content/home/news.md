@@ -66,7 +66,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
+tteertt
+* ffgg
+* 
 
 <div class="notecard note">
   <p><strong>Note:</strong> This is how you write a note.</p>
@@ -78,16 +80,8 @@ I am a success message
 </div>
 
 **News:**
-```
-* dfgrehh
-```
-
-**Updates:**
-```
-*ggg
-
-
-```
+  * 24/09/2021: We are organizing [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. 
+  * 05/05/2021: We are organizing [IRC-SET'21](https://ircset.org/main/conference-2021/) conferenc. Consider submitting your research work.
 
 <p class="callout info">A success message</p>
 <p class="callout success">A success message</p>
