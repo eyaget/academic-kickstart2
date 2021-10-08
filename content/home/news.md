@@ -22,15 +22,19 @@ design:
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
+    color: 'yellow'
     #text_color_light: true
 ---
+
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+I am a success message
+</div>
+
 
 ```
 dfgrehh
 ```
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
-I am a success message
-</div>
+
 <p class="callout info">A success message</p>
 <p class="callout success">A success message</p>
 <p class="callout warning">A success message</p>
