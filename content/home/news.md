@@ -22,7 +22,7 @@ design:
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
-    color: 'yellow'
+    color: '#00ffff'
     #text_color_light: true
 ---
 
