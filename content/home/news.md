@@ -10,7 +10,7 @@ headless = true
 weight = 15
 
 # Section title
-title "News & Updates"
+title = "News & Updates"
 
 # Section subtitle
 subtitle=
@@ -21,7 +21,7 @@ design:
   #columns = "1"
   # Use a dark navy background with light text.
   background:
-    #color: 'navy'
+    #color = 'navy'
     color = '#ffe6f2'
     #text_color_light = true
 +++
