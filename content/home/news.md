@@ -22,9 +22,13 @@ design:
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
-    color: '#00ffff'
+    color: '#e6f7ff'
     #text_color_light: true
 ---
+! This is an info message.
+!v This is a success message.
+!! Consider this a warning.
+!x This is an error message.
 
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
 I am a success message
