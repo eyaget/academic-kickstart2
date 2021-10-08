@@ -44,10 +44,10 @@
   url = "#posts"
   weight = 60
 
-[[main]]
-  name = "Tutorials"
-  url = "#tutorials"
-  weight = 70
+#[[main]]
+  #name = "Tutorials"
+  #url = "#tutorials"
+  #weight = 70
 
 [[main]]
   name = "Contact"
