@@ -65,6 +65,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+``diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 
 {{% alert note %}}
 Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
