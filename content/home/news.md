@@ -13,7 +13,7 @@ weight = 15
 title = "News & Updates"
 
 # Section subtitle
-subtitle=
+subtitle = ""
 
 # Section design
 design:
