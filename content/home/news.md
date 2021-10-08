@@ -24,6 +24,8 @@ design:
     color: 'navy'
     text_color_light: true
 ---
-{{% callout note %}}
-A Markdown callout is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
+
+<p class="callout info">A success message</p>
+<p class="callout success">A success message</p>
+<p class="callout warning">A success message</p>
+<p class="callout danger">A success message</p>
