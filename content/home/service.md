@@ -66,15 +66,15 @@ subtitle = ""
  css_class = ""
 +++
 
-**TPC Chair**
-  * SOLI'21
-  * IRC-SET'21
+**TPC Co-Chair**
+  * IEEE SOLI'21 (https://2021.ieee-soli.org/) 
+  * IRC-SET'21 (https://ircset.org/main/conference-2021/)
 
 **PC Member**
-  * IEEE MASS'21
-  * IRC-SET’21
-  * IRC-SET’20
-  * IRC-SET’19 (Finance Chair)
+  * IEEE MASS'21 (https://eng.auburn.edu/conference/ieee-mass2021/#) (for the Security & Privacy track)
+  * IRC-SET’21 (https://ircset.org/main/conference-2021/)
+  * IRC-SET’20 (https://ircset.org/main/conference-2020/)
+  * IRC-SET’19 (https://ircset.org/main/conference-2019/) (Finance Chair)
   * SecCPS’19 (co-located with IEEE HASE’19)
 
 **External Conference Reviewer**
