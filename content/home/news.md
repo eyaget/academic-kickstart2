@@ -24,7 +24,10 @@ design:
     #color: 'navy'
     #text_color_light: true
 ---
-\fbox{Note}
+```
+dfgrehh
+```
+
 <p class="callout info">A success message</p>
 <p class="callout success">A success message</p>
 <p class="callout warning">A success message</p>
