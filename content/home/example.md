@@ -7,10 +7,10 @@ widget: blank
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 120
 
 # Section title
-title: Hello
+title: Services
 
 # Section subtitle
 subtitle:
@@ -25,4 +25,11 @@ design:
     text_color_light: true
 ---
 
-Add any content to the body of the section here.
+Conferences:
+* xxx
+* yyyy
+* zzzz
+
+Journals:
+* jjjj
+* mmmm
