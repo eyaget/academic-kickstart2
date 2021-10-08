@@ -22,7 +22,7 @@ design:
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
-    color: '#e6f7ff'
+    color: '#ffe6f2'
     #text_color_light: true
 ---
 <div class="notecard note">
@@ -30,13 +30,18 @@ design:
   <p>It can have multiple lines.</p>
 </div>
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #d6e9c6;">
+<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #ffe6f2;">
 I am a success message
 </div>
 
-
+**News:**
 ```
-dfgrehh
+* dfgrehh
+```
+
+**Updates**
+```
+* jgggj
 ```
 
 <p class="callout info">A success message</p>
