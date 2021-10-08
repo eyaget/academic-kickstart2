@@ -1,4 +1,4 @@
----
++++
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
@@ -24,7 +24,7 @@ design:
     #color: 'navy'
     color: '#ffe6f2'
     #text_color_light: true
----
++++
 <div class="notecard note">
   <p><strong>Note:</strong> This is how you write a note.</p>
   <p>It can have multiple lines.</p>
@@ -34,14 +34,16 @@ design:
 I am a success message
 </div>
 
-**News:**{style="color: red"}
+**News:**
 ```
 * dfgrehh
 ```
 
-**Updates:**{style="color: red"}
+**Updates:**
 ```
-* jgggj
+*ggg
+
+
 ```
 
 <p class="callout info">A success message</p>
