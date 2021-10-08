@@ -44,6 +44,11 @@
   url = "#contact"
   weight = 80
 
+[[main]]
+  name = "Example"
+  url = "#example"
+  weight = 120
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
