@@ -67,6 +67,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+```diff
+- Red
+```
 
 **Latest News:**
   * 24/09/2021: We are organizing [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. 
