@@ -68,6 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
+<span style="color: green"> Some green text </span>
 
 **Latest News:**{style="color: red"}
   * 24/09/2021: We are organizing [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. 
