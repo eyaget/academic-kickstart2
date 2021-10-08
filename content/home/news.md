@@ -34,12 +34,12 @@ design:
 I am a success message
 </div>
 
-**News:**
+**News:**{style="color: red"}
 ```
 * dfgrehh
 ```
 
-**Updates**
+**Updates:**{style="color: red"}
 ```
 * jgggj
 ```
