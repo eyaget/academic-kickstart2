@@ -22,7 +22,7 @@ design:
   # Use a dark navy background with light text.
   background:
     color: 'navy'
-    text_color_light: true
+    #text_color_light: true
 ---
 
 Conferences:
