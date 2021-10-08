@@ -66,5 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-#**Awards:**
 
