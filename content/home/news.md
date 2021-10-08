@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 # Section title
-title: News \& Updates:
+title: News \& Updates
 
 # Section subtitle
 subtitle:
