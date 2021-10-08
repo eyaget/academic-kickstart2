@@ -1,3 +1,3 @@
-- First item
-  - A sub-item
-- Another item
+First item
+A sub-item
+Another item
