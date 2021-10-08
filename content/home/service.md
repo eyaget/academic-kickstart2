@@ -66,24 +66,24 @@ subtitle = ""
  css_class = ""
 +++
 
-**PC Co-Chair**
+**PC Co-Chair:**
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
-**PC Member**
+**PC Member:**
   * [IEEE MASS'21](https://eng.auburn.edu/conference/ieee-mass2021/#) (for the Security & Privacy track)
   * [IRC-SET’21](https://ircset.org/main/conference-2021/)
   * [IRC-SET’20](https://ircset.org/main/conference-2020/)
   * [IRC-SET’19](https://ircset.org/main/conference-2019/) (Finance Chair)
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
-**External Conference Reviewer**
+**External Conference Reviewer:**
   * [ISC'21](https://isc2021.petra.ac.id/)
   * [ESORICS’20](https://www.surrey.ac.uk/esorics-2020)
   * [SecureComm’19](https://securecomm.eai-conferences.org/2019/)
   * [CODASPY’18](http://www.codaspy.org/2018/)
   * [CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
 
-**Invited Journal Article Revieewer**
+**Invited Journal Article Revieewer:**
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), 2020
   * [International Journal of Distributed Sensor Networks (DSN)](https://journals.sagepub.com/loi/dsn), 2020
