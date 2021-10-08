@@ -24,7 +24,7 @@ design:
     #color: 'navy'
     #text_color_light: true
 ---
-kkkkkkkkkkkkkkkkkk
+\fbox{Note}
 <p class="callout info">A success message</p>
 <p class="callout success">A success message</p>
 <p class="callout warning">A success message</p>
