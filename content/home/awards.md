@@ -69,7 +69,7 @@ subtitle = ""
   * [Our **CRUISE** project won the **Singapore Public Sector Transformation Awards 2020**, in the **“Dare To Do”** category](https://www.a-star.edu.sg/Research/our-people/honours-and-accolades?utm_source=homepage&utm_campaign=cruise-ing-to-a-win-&utm_medium=banner), October 2020, Singapore.
   * **Outstanding Graduate Research Project Award** from MSD at FIRST 2017, July 2017, Singapore.
   * **Outstanding Graduate Research Project Award** from TUV SUD at FIRST 2017, July 2017, Singapore.
-  * [2<sup>nd</sup> place winners at the **Singapore Grand Challenge 2016**, organized by MSD](https://istd.sutd.edu.sg/news-events/event/news/award-sg-grand-challenge-2016/), April 2016, Singapore. x<sup>2</sup> y^2
+  * [2<sup>nd</sup> place winners at the **Singapore Grand Challenge 2016**, organized by MSD](https://istd.sutd.edu.sg/news-events/event/news/award-sg-grand-challenge-2016/), April 2016, Singapore. 
   * Recipient of the **A\*STAR SINGA Ph.D. Scholarship** award, January 2015 - January 2019, Singapore.
   * Recipient of the **University of Trento M.Sc. Scholarship** award, September 2010 - December 2012, Italy.
 
