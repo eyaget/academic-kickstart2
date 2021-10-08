@@ -1,10 +1,3 @@
-
-Journal:
-* kjjf
-* ffjjfjf
-* djjjf
-
-Conference:
-* hhgg
-* ffggg
-
+- First item
+  - A sub-item
+- Another item
