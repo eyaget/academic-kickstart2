@@ -67,7 +67,7 @@ subtitle = ""
 +++
 
 **TPC Co-Chair**
-  * IEEE SOLI'21 (https://2021.ieee-soli.org/) 
+  * [IEEE SOLI'21] (https://2021.ieee-soli.org/) 
   * IRC-SET'21 (https://ircset.org/main/conference-2021/)
 
 **PC Member**
