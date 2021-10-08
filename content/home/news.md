@@ -1,29 +1,29 @@
 +++
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: blank
+widget = "blank"
 
 # This file represents a page section.
-headless: true
+headless = true
 
 # Order that this section appears on the page.
-weight: 15
+weight = 15
 
 # Section title
-title: News & Updates
+title "News & Updates"
 
 # Section subtitle
-subtitle:
+subtitle=
 
 # Section design
 design:
   # Use a 1-column layout
-  #columns: "1"
+  #columns = "1"
   # Use a dark navy background with light text.
   background:
     #color: 'navy'
-    color: '#ffe6f2'
-    #text_color_light: true
+    color = '#ffe6f2'
+    #text_color_light = true
 +++
 <div class="notecard note">
   <p><strong>Note:</strong> This is how you write a note.</p>
