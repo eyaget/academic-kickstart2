@@ -10,7 +10,7 @@ headless: true
 weight: 15
 
 # Section title
-title: News
+title: News & Updates
 
 # Section subtitle
 subtitle:
@@ -18,13 +18,12 @@ subtitle:
 # Section design
 design:
   # Use a 1-column layout
-  columns: "1"
+  #columns: "1"
   # Use a dark navy background with light text.
   background:
-    color: 'navy'
-    text_color_light: true
+    #color: 'navy'
+    #text_color_light: true
 ---
-
 <p class="callout info">A success message</p>
 <p class="callout success">A success message</p>
 <p class="callout warning">A success message</p>
