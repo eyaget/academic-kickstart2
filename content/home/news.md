@@ -74,6 +74,15 @@ subtitle = ""
 
 > Testing.
 
+<div class="boxBell">Disclaimer</div>
+<div class="boxCheck">Check</div>
+<div class="boxComment">Comment</div>
+<div class="boxHeart">Heart</div>
+<div class="boxInfo">Info</div>
+<div class="boxPlus">Plus</div>
+<div class="boxStar">Star</div>
+<div class="boxWarning">Warning </div>
+
 
 
 <div class="notecard note">
