@@ -14,11 +14,7 @@ image:
 
 links:
 - icon: ""
-  icon_pack: fab
-  name: ""
-  url: ""
-- icon: ""
-  icon_pack: fab
+  #icon_pack: fab
   name: ""
   url: ""
 url_code: ""
