@@ -1,5 +1,6 @@
 ---
 title: Blockchain for Cybersecurity
+priority: 1
 summary: In this project, we explore and adopt the applications of blockchain in various cybersecurity problems.
 tags:
 - Blockchain
