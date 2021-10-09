@@ -24,14 +24,15 @@ email = "eyasu_chekole@sutd.edu.sg"
 # List (academic) interests or hobbies
 interests = [
   "System & Software Security",
-  "Critical Infrastructures (ICS/CPS/IoT) Security",
+  "Critical Infrastructures (ICS/CPS) Security",
   # "Industrial Control & Cyber-Physical Systems Security",
   # "IoT Security",
-  "Mobile Security",
+  "V2X Security",
   "Applied Cryptography",
   "Blockchain",
   "Access Control Models",
-  "Privacy-Preserving Approaches"
+  "Privacy-Preserving Approaches",
+  "Smartphone Security",
 ]
 
 # Organizational groups that you belong to (for People widget)
