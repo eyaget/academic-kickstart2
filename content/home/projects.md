@@ -33,6 +33,8 @@ content:
     tag: SecSES
   # - name: ReaCoN
     # tag: ReaCoN
+  - name: Blockchain
+    tag: Blockchain
   - name: Other
     tag: Demo
 
