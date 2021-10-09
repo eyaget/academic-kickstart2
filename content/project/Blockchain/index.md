@@ -2,7 +2,7 @@
 title: Blockchain for Cybersecurity
 summary: In this project, we explore and adopt the applications of blockchain in various cybersecurity problems.
 tags:
-- Memory-Safety
+- Blockchain
 date: "2021-06-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
