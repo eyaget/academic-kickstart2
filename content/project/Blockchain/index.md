@@ -12,11 +12,11 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-- icon: ""
+#links:
+#- icon: ""
   #icon_pack: fab
-  name: ""
-  url: ""
+  #name: ""
+  #url: ""
 url_code: ""
 url_pdf: ""
 url_slides: ""
