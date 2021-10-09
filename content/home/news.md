@@ -69,8 +69,8 @@ subtitle = ""
 +++
 
 **Latest News:**
-  * **[24 Sep 2021]** We are organizing [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. 
-  * **[05 May 2021]** We are organizing [IRC-SET'21](https://ircset.org/main/conference-2021/) conferenc. Consider submitting your research work.
+  * **[24 Sep 2021]** We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. 
+  * **[05 May 2021]** We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work.
 
 
 <div class="notecard note">
