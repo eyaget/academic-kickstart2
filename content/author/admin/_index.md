@@ -25,7 +25,7 @@ email = "eyasu_chekole@sutd.edu.sg"
 interests = [
   "Software & System Security",
   "Memory Safety",
-  "Critical (ICS/CPS/IoT) Infrastructures Security",
+  "Critical Infrastructures (ICS/CPS/IoT) Security",
   # "Industrial Control & Cyber-Physical Systems Security",
   # "IoT Security",
   "V2X Security",
