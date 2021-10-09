@@ -69,33 +69,26 @@ subtitle = ""
 +++
 
 **Latest News:**
-  * **[24 Sep 2021]** We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work [**Deadline: 25 Oct 2021**].
-  * **[05 May 2021]** We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work [**Deadline: 7 Jul 2021] (Expired)**.
-
-> Testing.
-
-<div class="boxBell">Disclaimer</div>
-<div class="boxCheck">Check</div>
-<div class="boxComment">Comment</div>
-<div class="boxHeart">Heart</div>
-<div class="boxInfo">Info</div>
-<div class="boxPlus">Plus</div>
-<div class="boxStar">Star</div>
-<div class="boxWarning">Warning </div>
+  * <div class="boxInfo">**[24 Sep 2021]** We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work [**Deadline: 25 Oct 2021**].</div>
+  * <div class="boxInfo">**[05 May 2021]** We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work [**Deadline: 7 Jul 2021] (Expired)**.</div>
 
 
 
-<div class="notecard note">
-  <p><strong>Note:</strong> This is how you write a note.</p>
-  <p>It can have multiple lines.</p>
-</div>
+#<div class="boxBell">Disclaimer</div>
+#<div class="boxCheck">Check</div>
+#<div class="boxComment">Comment</div>
+#<div class="boxHeart">Heart</div>
+#<div class="boxInfo">Info</div>
+#<div class="boxPlus">Plus</div>
+#<div class="boxStar">Star</div>
+#<div class="boxWarning">Warning </div>
 
-<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #ffe6f2;">
-I am a success message
-</div>
+#> Testing.
 
-<p class="callout info">A success message</p>
-<p class="callout success">A success message</p>
-<p class="callout warning">A success message</p>
-<p class="callout danger">A success message</p>
-fhfffffffffffff
+
+
+#<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #ffe6f2;">
+#I am a success message
+#</div>
+
+
