@@ -35,6 +35,8 @@ content:
     # tag: ReaCoN
   - name: Blockchain
     tag: Blockchain
+  - name: V2X-Security
+    tag: V2X-Security
   - name: Other
     tag: Demo
 
