@@ -27,7 +27,7 @@ content:
   filter_button:
   - name: All
     tag: '*'
-   - name: V2X-Security
+  - name: V2X-Security
     tag: V2X-Security
   - name: Blockchain
     tag: Blockchain
