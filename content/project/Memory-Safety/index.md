@@ -1,5 +1,6 @@
 ---
 title: Enforcing Memory-Safety in CPS
+priority: 1
 summary: Enforcing Memory-Safety in Critical Infrastructures.
 tags:
 - Memory-Safety
