@@ -27,16 +27,16 @@ content:
   filter_button:
   - name: All
     tag: '*'
+   - name: V2X-Security
+    tag: V2X-Security
+  - name: Blockchain
+    tag: Blockchain
   - name: Memory-Safety
     tag: Memory-Safety
   - name: SecSES
     tag: SecSES
   # - name: ReaCoN
     # tag: ReaCoN
-  - name: Blockchain
-    tag: Blockchain
-  - name: V2X-Security
-    tag: V2X-Security
   - name: Other
     tag: Demo
 
