@@ -69,7 +69,7 @@ subtitle = ""
  css_class = ""
 +++
 
-<h2>**Latest News:**</h2>
+<h2>Latest News:</h2>
 <div class="boxInfo">
   
   24 Sep 2021: We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **Deadline: 25 Oct 2021**.
@@ -99,5 +99,7 @@ This is **bold** and this is _emphasized_. [this is a link](https://www.mattmaye
 <div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #ffe6f2;">
 I am a success message
 </div>
+
+Reference: https://roneo.org/en/hugo-custom-warning-infoboxes/
 --->
 
