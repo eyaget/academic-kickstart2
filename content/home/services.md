@@ -84,6 +84,6 @@ subtitle = ""
   * [CODASPY’18](http://www.codaspy.org/2018/)
   * [CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
 
-**Invited Journal Article Revieewer:**
+### **Invited Journal Article Reviewer:**
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), 2020
   * [International Journal of Distributed Sensor Networks (DSN)](https://journals.sagepub.com/loi/dsn), 2020
