@@ -74,11 +74,11 @@ subtitle = ""
   We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **Deadline: 25 Oct 2021**.
 </div>
 
-<div class="boxInfo">**05 May 2021:** 
+<div class="boxInfo">05 May 2021: 
   
   We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work. **Deadline: 7 Jul 2021** (Expired).</div>
 
-
+<! --
 <div  class="boxInfo">Note:
 
 This is **bold** and this is _emphasized_. [this is a link](https://www.mattmayes.com)
@@ -100,5 +100,5 @@ This is **bold** and this is _emphasized_. [this is a link](https://www.mattmaye
 #<div style="padding: 15px; border: 1px solid transparent; border-color: transparent; margin-bottom: 20px; border-radius: 4px; color: #3c763d; background-color: #dff0d8; border-color: #ffe6f2;">
 #I am a success message
 #</div>
-
+-->
 
