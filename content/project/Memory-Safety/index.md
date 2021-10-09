@@ -33,5 +33,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Details to be provide. 
+Details are to be provided. 
