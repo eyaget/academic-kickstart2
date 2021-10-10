@@ -77,7 +77,7 @@ subtitle = ""
 
 <div class="boxInfo">05 May 2021: 
   
-  We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work. **Deadline: 7 Jul 2021** (<p style="color:red;">Expired</p>).</div>
+  We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work. **Deadline: 7 Jul 2021** (<span style="color:red;">**Expired**</span>).</div>
 
 
 <!---
