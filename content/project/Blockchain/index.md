@@ -1,7 +1,7 @@
 ---
 title: Blockchain for Cybersecurity
 priority: 3
-summary: In this project, we explore and adopt the applications of blockchain in various cybersecurity problems.
+summary: In this project, we explore and adopt the applications of blockchain to address various cybersecurity issues in different domains.
 tags:
 - Blockchain
 date: "2021-06-11T00:00:00Z"
