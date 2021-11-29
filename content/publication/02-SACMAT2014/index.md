@@ -20,8 +20,8 @@ authors = ["Alessandro Armando", "Roberto Carbone", "Eyasu Getahun Chekole", "Si
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Proceedings of the 19th ACM Symposium on Access Control Models and Technologies (SACMAT), ACM*"
-publication_short = "*Proceedings of the 19th ACM Symposium on Access Control Models and Technologies (SACMAT), ACM*"
+publication = "*Proceedings of the 19th ACM Symposium on Access Control Models and Technologies (SACMAT'14), ACM*"
+publication_short = "*Proceedings of the 19th ACM Symposium on Access Control Models and Technologies (SACMAT'14), ACM*"
 
 # Abstract and optional shortened version.
 abstract = "The widespread adoption of Application Programming Interfaces (APIs) by enterprises is changing the way business is done by permitting the implementation of a multitude of apps, customized to user needs. While supporting a more flexible exploitation of available data, services and applications developed on top of APIs are vulnerable to a variety of attacks, ranging from SQL injection to unauthorized access of sensitive data. Available security solutions must be re-used and/or adapted to work with APIs. In this paper, we focus on the development of a flexible access control mechanism for APIs. This is an important security mechanism to guarantee the enforcement of authorization constraints on resources while invoking their API functions. We have developed an extension of the Spring Security framework, the standard for securing services and apps built in the popular (open source) Spring framework, for the specification and enforcement of Attribute-Based Access Control (ABAC) policies. We demonstrate our work with scenarios arising in a smart energy eco-system."
