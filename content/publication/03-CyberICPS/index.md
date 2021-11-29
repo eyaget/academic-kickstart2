@@ -1,9 +1,9 @@
 ---
 authors:
-- E. G. Chekole
-- J. H. Castellanos
-- M. Ochoa 
-- D. K. Y. Yau
+- Eyasu Getahun Chekole
+- John Henry Castellanos
+- Martin Ochoa 
+- David K. Y. Yau
 title: "Enforcing Memory Safety in Cyber-Physical Systems"
 date: "2017-09-11"
 doi: "https://doi.org/10.1007/978-3-319-72817-9_9"
