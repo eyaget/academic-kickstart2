@@ -1,8 +1,8 @@
 ---
 authors:
-- E. G. Chekole
-- M. Ochoa
-- S. Chattopadhyay
+- Eyasu Getahun Chekole
+- Martin Ochoa
+- Sudipta Chattopadhyay
 title: "SCOPE: Secure Compiling of PLCs in Cyber-Physical Systems"
 date: "2021-03-08"
 doi: "10.1016/j.ijcip.2021.100431"
