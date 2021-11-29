@@ -18,7 +18,7 @@ publishDate: "2021-11-22"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
- publication: "In *CoRR abs, arXiv*"
+publication: "In *CoRR abs, arXiv*"
 publication_short: "In *CoRR abs, arXiv*"
 #publication: "*International Journal of Critical Infrastructure Protection (IJCIP)*, Elsevier, In Press"
 #publication_short: "IJCIP"
