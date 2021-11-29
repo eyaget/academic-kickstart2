@@ -6,7 +6,7 @@ date = "2014-02-26"
 doi = "https://doi.org/10.1007/978-3-319-10329-7_4"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["A. Armando", "R. Carbone", "E. G. Chekole", "C. Petrazzuolo", "A. Ranalli", "S. Ranise"]
+authors = ["Alessandro Armando", "Roberto Carbone", "Eyasu Getahun Chekole", "Claudio Petrazzuolo", "Andrea Ranalli", "Silvio Ranise"]
 
 # Publication type.
 # Legend:
