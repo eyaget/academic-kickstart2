@@ -1,9 +1,9 @@
 ---
 authors:
-- E. G. Chekole
-- S. Chattopadhyay
-- M. Ochoa 
-- H. Guo
+- Eyasu Getahun Chekole
+- Sudipta Chattopadhyay
+- Martin Ochoa 
+- Huatun Guo
 title: "Enforcing Full-Stack Memory Safety in Cyber-Physical Systems"
 date: "2018-06-26"
 doi: "https://doi.org/10.1007/978-3-319-94496-8_2"
