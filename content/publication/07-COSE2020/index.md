@@ -1,10 +1,10 @@
 ---
 authors:
-- E. G. Chekole
-- S. Chattopadhyay
-- M. Ochoa
-- H. Guo
-- U. Cheramangalath
+- Eyasu Getahun Chekole
+- Sudipta Chattopadhyay
+- Martin Ochoa 
+- Huaqun Guo
+- Unnikrishnan Cheramangalath
 title: "CIMA: Compiler-Enforced Resilience Against Memory Safety Attacks in Cyber-Physical Systems"
 date: "2020-04-13"
 doi: "https://doi.org/10.1016/j.cose.2020.101832"
