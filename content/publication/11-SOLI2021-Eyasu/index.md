@@ -3,11 +3,11 @@ authors:
 - Eyasu Getahun Chekole
 - Huaqun Guo
 title: "DARUD: Detecting and Arresting Rogue USB Devices in the V2X Ecosystem"
-date: "2021-12-11"
+date: "2021-11-27"
 #doi: "https://doi.org/10.1145/3372318.3372325"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-11"
+publishDate: "2021-11-27"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ publishDate: "2021-12-11"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accepted at the 15th IEEE International Conference on Service Operations and Logistics, and Informatics, IEEE*"
+publication: "**Accepted** at the *15th IEEE International Conference on Service Operations and Logistics, and Informatics, IEEE*"
 publication_short: "*SOLI'21*"
 
 abstract: Vehicle-to-Everything (V2X) is a cutting-edge technology in intelligent transportation systems (ITS). In V2X, various entities communicate and cooperate each other to ensure road safety and efficiency. However, such communications and cooperation also pose various security risks to the transportation system. In particular, due to the involvement of several unattended roadside devices, such as roadside units (RSUs), industrial PCs, traffic light controllers, 3D laser scanners, video cameras, and pedestrian sensors, the V2X ecosystem is highly vulnerable to malware attacks. Attackers may use rogue USB devices to inject various types of malware (e.g., viruses, spyware, ransomware and worms) to the V2X system via the USB ports of the roadside devices. Such attacks may result in a debilitating impact on the safety and efficiency of road traffic. Although a wide-range of approaches have been proposed against USB-based attacks, most of them have several limitations, especially when applied in the V2X context. For example, the widely adopted approaches against USB-based attacks are scanning USB devices using anti-malware/antivirus tools (which is often not effective against zero-day malware), disabling USB ports (security-through-obscurity has already several drawbacks), whitelisting USB devices using certain attributes of the USB devices (which is often bypassed by brute-force attacks and not effective against dishonest USB users). Furthermore, most of the existing solutions are implemented only for general purpose computing devices (e.g., computers and servers), hence might not be suitable for sensors and tiny IoT devices involved in the V2X environment. Moreover, the configuration and update processes of most existing solutions requires physical access to the devices, which might not be feasible in V2X where devices and sensors are dispersed across various roadside locations. In this work, we propose and implement DARUD – a lightweight and automated toolkit that dynamically detects and prevents rogue USB devices in V2X. This is achieved by constructing a USB authorization policy based on kernel-level USB rules and fingerprints. The proposed solution can also be configured and updated to the roadside devices over-the-air via a secured VPN tunneling. This avoids the hassle of physically configuring or updating the USB-security solutions on each roadside device. The effectiveness of our proposed approach is also tested using a realistic V2X infrastructure.
@@ -32,7 +32,7 @@ featured: false
 # - name: Custom Link
 #  url: http://example.org
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_pdf: pdf/icss-final.pdf
+#url_pdf: pdf/icss-final.pdf
 #url_code: '#'
 #url_dataset: '#'
 #url_poster: '#'
