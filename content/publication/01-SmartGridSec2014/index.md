@@ -20,8 +20,8 @@ authors = ["Alessandro Armando", "Roberto Carbone", "Eyasu Getahun Chekole", "Cl
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec), co-located with ESSoS, Springer*"
-publication_short = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec), co-located with ESSoS, Springer*"
+publication = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec'14), co-located with ESSoS'14, Springer*"
+publication_short = "*Proceedings of the Smart Grid Security Workshop (SmartGridSec'14), co-located with ESSoS'14, Springer*"
 
 # Abstract and optional shortened version.
 abstract = "In the context of energy efficiency, smart metering solutions are receiving growing attention as they support the automatic collection of (fine-grained) consumption data of appliances. While the capability of a stakeholder (such as a consumer, an utility, or a third-party service) to access smart metering data can give rise to innovative services for users, it makes the control of data release and usage significantly more complex. It is thus extremely important to put in place an adequate access control mechanism that takes into account the authorization requirements of the various stakeholders. To address this issue, we propose a framework based on the Attribute Based Access Control model for the selective release of smart metering data in cloud-based solutions for smart grids. We applied our framework to a scenario proposed by Energy@Home, a non-profit association of companies with the mission of developing and promoting techniques for energy efficiency in smart homes. As a proof of concept, we implemented our approach on top of the open-source Spring Security framework."
