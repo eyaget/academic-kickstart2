@@ -16,8 +16,8 @@ publishDate: "2019-12-10"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the Fifth Annual Industrial Control Systems Security (ICSS) Workshop, co-located with ACSAC, ACM*"
-publication_short: "*Proceedings of the Fifth Annual Industrial Control Systems Security (ICSS) Workshop, co-located with ACSAC, ACM*"
+publication: "*Proceedings of the Fifth Annual Industrial Control Systems Security (ICSS'19) Workshop, co-located with ACSAC'19, ACM*"
+publication_short: "*Proceedings of the Fifth Annual Industrial Control Systems Security (ICSS'19) Workshop, co-located with ACSAC, ACM*"
 
 abstract: Industrial control systems (ICS) have been widely adopted in mission-critical infrastructures. However, the increasing prevalence of cyberattacks targeting them has been a critical security concern. On the other hand, the high real-time and availability requirements of ICS limits the applicability of certain available security solutions due to the performance overhead they introduce and the system unavailability they cause. Moreover, scientific metrics (mathematical models) are not available to evaluate the efficiency and resilience of security solutions in the ICS context. Hence, in this paper, we propose ICS-SEA to address the ICS design constraints of Security, Efficiency, and Availability (SEA). Our ICS-SEA formally models the real-time constraints and physical-state resiliency quantitatively based on a typical ICS. We then design two real-world ICS testbeds and evaluate the efficiency and resilience of a few selected security solutions using our defined models. The results show that our ICS-SEA is effective to evaluate security solutions against the SEA conflicting design constraints in ICS.
 
