@@ -1,10 +1,11 @@
 ---
 authors:
-- E. G. Chekole
-- U. Cheramangalath
-- S. Chattopadhyay
-- M. Ochoa 
-- H. Guo
+- Eyasu Getahun Chekole
+- Unnikrishnan Cheramangalath
+- Sudipta Chattopadhyay
+- Martin Ochoa 
+- Huaqun Guo
+
 title: "Taming the War in Memory: A Resilient Mitigation Strategy Against Memory Safety Attacks in CPS"
 date: "2018-09-20"
 doi: "https://arxiv.org/abs/1809.07477v2"
