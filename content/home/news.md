@@ -72,7 +72,7 @@ subtitle = ""
 ## **Latest News:**
 <div class="boxInfo">15 Sep 2021: 
   
-  We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **~~Deadline: 20 Nov 2021~~** ~~(~~ <span style="color:red;">**~~Extended~~**</span>~~).~~
+  We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **~~Deadline: 20 Nov 2021 (Extended).~~**
 </div>
 
 <div class="boxInfo">05 May 2021: 
@@ -101,6 +101,7 @@ This is **bold** and this is _emphasized_. [this is a link](https://www.mattmaye
 I am a success message
 </div>
 
+Red text: <span style="color:red;">**Extended**</span>
 Reference: https://roneo.org/en/hugo-custom-warning-infoboxes/
 --->
 
