@@ -72,7 +72,7 @@ subtitle = ""
 ## **Latest News:**
 <div class="boxInfo">15 Sep 2021: 
   
-  We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **~~Deadline: 20 Nov 2021 (Extended).~~**
+  We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **~~Deadline: 20 Nov 2021 (<span style="color:red;">Extended</span>).~~**
 </div>
 
 <div class="boxInfo">05 May 2021: 
