@@ -3,8 +3,8 @@ authors:
 - Eyasu Getahun Chekole
 - Huaqun Guo
 title: "DARUD: Detecting and Arresting Rogue USB Devices in the V2X Ecosystem"
-date: "2021-11-27"
-#doi: "https://doi.org/10.1145/3372318.3372325"
+date: "2021-12-11"
+doi: "10.1109/SOLI54607.2021.9672338"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-11-27"
