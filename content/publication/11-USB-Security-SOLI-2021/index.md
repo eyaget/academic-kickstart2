@@ -7,7 +7,7 @@ date: "2021-12-11"
 doi: "10.1109/SOLI54607.2021.9672338"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-27"
+publishDate: "2021-12-11"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
