@@ -18,8 +18,8 @@ publishDate: "2021-12-11"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In Proceedings of the 15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
-publication_short: "*In Proceedings of the 15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
+publication: "***In Proceedings of the 15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21)***, IEEE"
+publication_short: "***In Proceedings of the 15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21)***, IEEE"
 
 abstract: The ISO/IEC 27001 standard has been adopted by worldwide organizations and companies. The main contribution of this paper is to systematically address all 21 requirements consisted of 7 mandatories and 14 categories in ISO/IEC 27001 standard when designing and developing information security management system (ISMS) policies. The PDCA model is adopted, and the statement of applicability is assessed. The 13 policies of ISMS are designed to address the individual requirement of ISO/IEC 27001 standard respectively and effectively.
 
