@@ -5,11 +5,11 @@ authors:
 - Meng Wei
 - Eyasu Getahun Chekole
 title: "Enhance Enterprise Security through Implementing ISO/IEC27001 Standard"
-date: "2021-11-26"
-#doi: "https://doi.org/10.1145/3372318.3372325"
+date: "2021-12-11"
+doi: "https://doi.org/10.1109/SOLI54607.2021.9672401"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-26"
+publishDate: "2021-12-11"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,8 +18,8 @@ publishDate: "2021-11-26"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Accepted** at the *15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
-publication_short: "**Accepted** at the *15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
+publication: "In Proceedings of the *15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
+publication_short: "In Proceedings of the *15th IEEE International Conference on Service Operations and Logistics, and Informatics (SOLI'21), IEEE*"
 
 #abstract: The ISO/IEC 27001 standard has been adopted by worldwide organizations and companies. The main contribution of this paper is to systematically address all 21 requirements consisted of 7 mandatories and 14 categories in ISO/IEC 27001 standard when designing and developing information security management system (ISMS) policies. The PDCA model is adopted, and the statement of applicability is assessed. The 13 policies of ISMS are designed to address the individual requirement of ISO/IEC 27001 standard respectively and effectively.
 
@@ -30,9 +30,9 @@ tags:
 # - Source Themes
 featured: false
 
-# links:
-# - name: Custom Link
-#  url: http://example.org
+links:
+ - name: Publication Site
+   url: "https://ieeexplore.ieee.org/document/9672401"
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_pdf: pdf/icss-final.pdf
 #url_code: '#'
