@@ -30,7 +30,7 @@ featured: false
 
 # links:
  - name: Publication Site
-  url: https://ieeexplore.ieee.org/document/9672338
+  url: "https://ieeexplore.ieee.org/document/9672338"
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_pdf: pdf/icss-final.pdf
 #url_code: '#'
