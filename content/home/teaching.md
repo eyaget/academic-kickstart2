@@ -75,5 +75,5 @@ subtitle = ""
       - Process management and multithreaded programming
       - Process scheduling, synchronization, deadlock
       - End-to-end network performance (e.g., loss, throughput, and delay)
-      - Network security: applied cryptography; key certification; CIA triad types of network attacks
-      - Client-server network programming; HTTP and the World Wide Web
+      - Network security: applied cryptography, key certification, CIA triad, types of network attacks
+      - Client-server network programming, HTTP and the World Wide Web
