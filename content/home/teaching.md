@@ -68,12 +68,12 @@ subtitle = ""
  css_class = ""
 +++
 
-**Computer System Engineering**, *2017*
-  * Role: Teaching Assistant (TA)
-  * Course level: Undergraduate course 
-  * University: Singapore University of Technology and Design
-  * Period: Jan 2017 - May 2017
-  * **Description**: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for the undergraduate course *Computer Systems Engineering* at Singapore University of Technology and Design, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
+Jan 2017 - May 2017, **Computer System Engineering**, *Singapore University of Technology and Design*, Singapore
+  * **Description**: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for an undergraduate course, namely **Computer Systems Engineering**, at Singapore University of Technology and Design, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
   * Key topics:
-  *   gfdcf 
-  *   hgfd
+  *   Basic principles in the design of large-scale computing systems
+  *   Process management and multithreaded programming
+  *   Process scheduling, synchronization, deadlock
+  *   End-to-end network performance (e.g., loss, throughput, and delay)
+  *   Network security: applied cryptography; key certification; CIA triad types of network attacks
+Client-server network programming; HTTP and the World Wide Web
