@@ -68,7 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**Computer System Engineering**
+**Computer System Engineering*, 2017*
   * Role: Teaching Assistant (TA)
   * Course level: Undergraduate course 
   * University: Singapore University of Technology and Design
