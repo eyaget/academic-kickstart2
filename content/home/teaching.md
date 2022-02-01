@@ -67,3 +67,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**Computer System Engineering**
+  * Role: Teaching Assistant (TA)
+  * Course level: Undergraduate course 
+  * University: Singapore University of Technology and Design
+  * Period: Jan 2017 - May 2017
+  * Description: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for the undergraduate course *Computer Systems Engineering* at Singapore University of Technology and Design, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
