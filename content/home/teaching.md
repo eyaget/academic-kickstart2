@@ -68,10 +68,10 @@ subtitle = ""
  css_class = ""
 +++
 
-*Jan 2017 - May 2017, **Computer System Engineering**, Singapore University of Technology and Design, Singapore*
+***Computer System Engineering**, Singapore University of Technology and Design, 2017*
   * **Description**: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for an undergraduate course, namely **Computer Systems Engineering**, at Singapore University of Technology and Design, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
   * **Key topics**:
-  - Basic principles in the design of large-scale computing systems
+      - Basic principles in the design of large-scale computing systems
   - Process management and multithreaded programming
   - Process scheduling, synchronization, deadlock
   - End-to-end network performance (e.g., loss, throughput, and delay)
