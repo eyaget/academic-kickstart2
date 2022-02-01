@@ -72,8 +72,8 @@ subtitle = ""
   * **Description**: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for an undergraduate course, namely **Computer Systems Engineering**, at Singapore University of Technology and Design, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
   * **Key topics**:
       - Basic principles in the design of large-scale computing systems
-  - Process management and multithreaded programming
-  - Process scheduling, synchronization, deadlock
-  - End-to-end network performance (e.g., loss, throughput, and delay)
-  - Network security: applied cryptography; key certification; CIA triad types of network attacks
-  - Client-server network programming; HTTP and the World Wide Web
+      - Process management and multithreaded programming
+      - Process scheduling, synchronization, deadlock
+      - End-to-end network performance (e.g., loss, throughput, and delay)
+      - Network security: applied cryptography; key certification; CIA triad types of network attacks
+      - Client-server network programming; HTTP and the World Wide Web
