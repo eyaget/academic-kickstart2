@@ -68,7 +68,7 @@ subtitle = ""
  css_class = ""
 +++
 
-***Computer System Engineering**, Singapore University of Technology and Design, 2017*
+***Computer Systems Engineering**, Singapore University of Technology and Design, 2017*
   * **Description**: As part of my PhD study requirement, I served as a Teaching Assistant (TA) for this undergraduate course at *Singapore University of Technology and Design*, with course instructors **Prof. David Yau** and **Dr. Jit Biswas**.
   * **Key topics**:
       - Basic principles in the design of large-scale computing systems
