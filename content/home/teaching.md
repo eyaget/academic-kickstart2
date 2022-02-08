@@ -1,6 +1,6 @@
 +++
-# A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# A teaching experience section created with the Pages widget.
+# This section displays my teaching experience from `content/teaching/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
