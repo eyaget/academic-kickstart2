@@ -37,7 +37,7 @@
 [[main]]
   name = "Teaching"
   identifier = "teaching"
-  url = "/teaching/#teaching"
+  url = "/teaching/"
   weight = 60
   
 [[main]]
