@@ -31,17 +31,18 @@
  
 [[main]]
   name = "Awards"
-  url = "/awards/awards"
+  url = "/awards/#awards"
   weight = 50
 
 [[main]]
   name = "Teaching"
   identifier = "teaching"
-  url = "/teaching/"
+  url = "/teaching/#teaching"
   weight = 60
   
 [[main]]
   name = "Posts"
+  identifier = "posts"
   url = "#posts"
   weight = 70
 
