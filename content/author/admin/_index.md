@@ -19,7 +19,7 @@ organizations = [ { name = "Singapore University of Technology and Design (SUTD)
 # bio = "Researcher in Cybersecurity"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "eyasu_chekole@sutd.edu.sg"
+email = "eyasu_chekole[at]sutd.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
