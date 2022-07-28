@@ -72,6 +72,7 @@ subtitle = ""
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
 **PC Member:**
+  * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE MASS'21](https://eng.auburn.edu/conference/ieee-mass2021/#) (for the Security & Privacy track)
   * [IRC-SET’21](https://ircset.org/main/conference-2021/)
   * [IRC-SET’20](https://ircset.org/main/conference-2020/)
