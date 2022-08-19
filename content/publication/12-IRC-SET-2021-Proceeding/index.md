@@ -4,7 +4,7 @@ authors:
 - Hongliang Ren
 - Victor Wang
 - Eyasu Getahun Chekole
-- Umayal Lakshmanan
+- Umayal Lakshmanan (Editors)
 title: "Proceedings of the 7th IRC Conference on Science, Engineering and Technology (IRC-SET'21)"
 date: "2022-08-01"
 doi: "10.1109/SOLI54607.2021.9672338"
