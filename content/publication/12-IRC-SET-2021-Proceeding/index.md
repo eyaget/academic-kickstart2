@@ -21,7 +21,7 @@ publication_types: ["5"]
 # Publication name and optional abbreviated publication name.
 publication: "In ***Proceedings of the 7th IRC Conference on Science, Engineering and Technology (IRC-SET'21)***, Springer"
 publication_short: "In ***Proceedings of the 7th IRC Conference on Science, Engineering and Technology (IRC-SET'21)***, Springer"
-a
+
 abstract: This book highlights contemporary state of research in multidisciplinary areas in computer science, computer engineering, chemical engineering, mechanical engineering, physics, biomedical sciences, life sciences, medicine, and health care. The accepted submissions to the 7th IRC Conference on Science, Engineering and Technology (IRC-SET 2021) that were presented on August 7, 2021, are published in this conference proceedings. The papers presented here were shortlisted after extensive rounds of rigorous reviews by a panel of esteemed individuals who are pioneers and experts in their respective domains.
 
 # Summary. An optional shortened abstract.
