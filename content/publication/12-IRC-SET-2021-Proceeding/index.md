@@ -7,7 +7,7 @@ authors:
 - Umayal Lakshmanan (Editors)
 title: "Proceedings of the 7th IRC Conference on Science, Engineering and Technology (IRC-SET'21)"
 date: "2022-08-01"
-doi: "10.1109/SOLI54607.2021.9672338"
+doi: "10.1007/978-981-16-9869-9"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-12-11"
