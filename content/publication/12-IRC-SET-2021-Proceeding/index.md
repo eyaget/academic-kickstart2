@@ -5,7 +5,7 @@ authors:
 - Victor Wang
 - Eyasu Getahun Chekole
 - Umayal Lakshmanan (editors)
-title: "Proceedings of the 7th IRC Conference on Science, Engineering and Technology (IRC-SET'21)"
+title: "IRC-SET 2021: Proceedings of the 7th IRC Conference on Science, Engineering and Technology"
 date: "2022-08-01"
 doi: "10.1007/978-981-16-9869-9"
 
