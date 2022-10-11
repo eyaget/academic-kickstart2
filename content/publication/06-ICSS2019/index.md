@@ -40,6 +40,8 @@ url_pdf: pdf/ICSS2019-Paper.pdf
 url_slides: pdf/ICSS2019-Presentation.pdf
 #url_source: '#'
 #url_video: '#'
+- Name: Slides
+  url: pdf/ICSS2019-Presentation.pdf
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
