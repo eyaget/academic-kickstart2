@@ -37,7 +37,7 @@ url_pdf: pdf/icss-final.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-#url_slides: ''
+url_slides: 'pdf/icss-presentation'
 #url_source: '#'
 #url_video: '#'
 
