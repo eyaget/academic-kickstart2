@@ -40,7 +40,7 @@ url_pdf: pdf/ICSS2019-Paper.pdf
 url_slides: pdf/ICSS2019-Presentation.pdf
 #url_source: '#'
 #url_video: '#'
-- Name: Slides
+- Name: Presentation
   url: pdf/ICSS2019-Presentation.pdf
 
 # Featured image
@@ -63,7 +63,7 @@ projects:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#slides: example
 ---
 
 {{% alert note %}}
