@@ -37,7 +37,7 @@ url_pdf: pdf/ICSS2019-Paper.pdf
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''
-url_slides: 'pdf/ICSS2019-Presentation.pdf'
+url_slides: pdf/ICSS2019-Presentation.pdf
 #url_source: '#'
 #url_video: '#'
 
