@@ -21,7 +21,15 @@ links:
 - icon: ""
   icon_pack: fab
   name: SCOPE
-  url: https://arxiv.org/abs/2012.12529
+  url: https://www.sciencedirect.com/science/article/pii/S1874548221000238
+- icon: ""
+  icon_pack: fab
+  name: Enforcing Memory-Safety
+  url: https://link.springer.com/chapter/10.1007/978-3-319-72817-9_9
+- icon: ""
+  icon_pack: fab
+  name: Full-Stack Memory-Safety
+  url: https://link.springer.com/chapter/10.1007/978-3-319-94496-8_2
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -34,4 +42,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Details are to be provided. 
+Please refer to the above papers, which are our publications related to this project. 
