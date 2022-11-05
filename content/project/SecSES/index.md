@@ -17,6 +17,13 @@ links:
   icon_pack: fab
   name: SecSES
   url: https://st.fbk.eu/tools/SecSES
+- icon: ""
+  icon_pack: fab
+  name: Selective Release of Smart Metering Data
+  url: https://link.springer.com/chapter/10.1007/978-3-319-10329-7_4
+icon_pack: fab
+  name: Flexible Access Control for Smart Energy Systems
+  url: https://dl.acm.org/doi/10.1145/2613087.2613109
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -29,5 +36,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Implementation of security and privacy aspects of smart metering data for an energy box in a smart home gateway.
+Implementation of security and privacy aspects of smart metering data for an energy box in a smart home gateway. Please refer to the above links for details. 
