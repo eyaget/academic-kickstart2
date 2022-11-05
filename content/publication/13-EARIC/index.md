@@ -18,7 +18,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "In ***TechRxiv***"
-publication_short: "In ***optional***"
+publication_short: "In ***TechRxiv***"
 #publication: "*International Journal of Critical Infrastructure Protection (IJCIP)*, Elsevier, In Press"
 #publication_short: "IJCIP"
 
