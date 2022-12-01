@@ -68,7 +68,7 @@ subtitle = ""
 
 **WEB Chair:**
   * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)
-  * 
+  
 **PC Co-Chair:**
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
