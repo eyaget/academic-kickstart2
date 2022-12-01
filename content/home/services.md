@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**WEB Chair:**
+**Web Chair:**
   * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)
   
 **PC Co-Chair:**
