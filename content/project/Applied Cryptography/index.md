@@ -3,7 +3,9 @@ title: Applied Cryptography
 priority: 1
 summary: In this project, we work on various cryptographic protocols and applications, such as lightweight authentication schemes, for various domains with different security and performance requirements.   
 tags:
-- Cryptography, Authentication, Key Exchange
+- Cryptography
+- Authentication
+- Key Exchange
 date: "2017-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
