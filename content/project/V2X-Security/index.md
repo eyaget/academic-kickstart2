@@ -30,4 +30,4 @@ url_video: ""
 slides: ""
 ---
 
-Details are to be provided. 
+Details are yet to be provided. 
