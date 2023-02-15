@@ -9,7 +9,7 @@ date: "2023-02-13"
 #doi: "10.1016/j.ijcip.2021.100431"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-21"
+publishDate: "2023-02-13"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
