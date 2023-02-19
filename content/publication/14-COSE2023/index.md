@@ -5,11 +5,11 @@ authors:
 - Martin Ochoa
 - Jianying Zhou
 title: "On the Security of Containers: Threat Modeling, Attack Analysis, and Mitigation Strategies"
-date: "2023-02-13"
-#doi: "10.1016/j.ijcip.2021.100431"
+date: "2023-02-16"
+doi: "https://doi.org/10.1016/j.cose.2023.103140"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-02-13"
+publishDate: "2023-02-16"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,8 +33,8 @@ tags:
 featured: false
 
 links:
- #- name: Preprint
-   #url: "https://arxiv.org/abs/2111.11475"
+ #- name: 
+   #url: ""
  - name: Publication Site
    url: "https://www.sciencedirect.com/science/article/pii/S0167404823000500"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
