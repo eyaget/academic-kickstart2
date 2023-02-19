@@ -18,8 +18,8 @@ publishDate: "2023-02-13"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In ***Computers & Security journal, Elsevier***"
-publication_short: "In ***Computers & Security journal, Elsevier***"
+publication: "In ***Computers & Security journal***, Elsevier"
+publication_short: "In ***Computers & Security journal***, Elsevier"
 #publication: "*International Journal of Critical Infrastructure Protection (IJCIP)*, Elsevier, In Press"
 #publication_short: "IJCIP"
 
