@@ -33,11 +33,8 @@ tags:
 featured: false
 
 links:
- #- name: 
-   #url: ""
- - name: Publication Site
-   #url: "https://www.sciencedirect.com/science/article/pii/S0167404823000500"
-   url: "https://www.sciencedirect.com/science/article/pii/S0167404823000500?dgcid=coauthor"
+ #- name: Publication Site
+ #  url: "https://www.sciencedirect.com/science/article/pii/S0167404823000500?dgcid=coauthor"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
 url_pdf: pdf/Containers-Security-COSE-2023.pdf
 #url_code: '#'
