@@ -70,9 +70,7 @@ subtitle = ""
 +++
 
 ## **News:**
-<div class="boxInfo">25 May 2022: 
-  
-  We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~** 
+<div class="boxInfo">25 May 2022: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~** 
 </div>
   
 <div class="boxInfo">15 Sep 2021: 
