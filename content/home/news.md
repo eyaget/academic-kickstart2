@@ -71,8 +71,9 @@ subtitle = ""
 
 ## **News:**
 * **23 June 2023**: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~**
-* * **23 June 2023**: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~** 
-
+* * **23 June 2023**: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~**
+  
+<!---
 <div class="boxInfo">
   
   **25 May 2022**: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~** 
@@ -91,7 +92,7 @@ subtitle = ""
   
 
 
-<!---
+
 <div  class="boxInfo">Note:
 
 This is **bold** and this is _emphasized_. [this is a link](https://www.mattmayes.com)
