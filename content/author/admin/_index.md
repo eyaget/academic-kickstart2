@@ -25,9 +25,10 @@ email = "eyasu_chekole@sutd.edu.sg"
 interests = [
   "Software & System Security",
   "Memory Safety",
-  "Critical Infrastructures (ICS/CPS/IoT) Security",
+  "OT (ICS/CPS) Security",
   # "Industrial Control & Cyber-Physical Systems Security",
-  # "IoT Security",
+  "IoT Security",
+  "Securitng Critical Infrastructures",
   "V2X Security",
   "Applied Cryptography",
   "Blockchain",
@@ -42,7 +43,7 @@ user_groups = ["Researchers", "Visitors"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Computer Science (specialized in Cybersecurity)"
+  course = "PhD in Cybersecurity (Computer Science)"
   institution = "Singapore University of Technology and Design, Singapore"
   year = 2019
 
@@ -90,7 +91,7 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-I earned my PhD in *Computer Science* (specifically in *Cybersecurity*) from [Singapore University of Technology and Design](https://www.sutd.edu.sg/) in 2019 (supervised by [Asst. Prof. Sudipta Chattopadhyay](https://asset-group.github.io/), [Dr. Martin Ochoa](https://martin-ochoa.github.io/) and [Assoc. Prof. Huaqun Guo](https://www.singaporetech.edu.sg/directory/faculty/huaqun-guo)), my MSc in *Computer Science* from [University of Trento](https://www.unitn.it/en) in 2012 (supervised by [Prof. Bruno Crispo](http://disi.unitn.it/~crispo/)), and my BSc in *Computer Science & IT* from [Arba Minch University](https://www.amu.edu.et/) in 2008. 
+I earned my PhD in *Cybersecurity (Computer Science)* from [Singapore University of Technology and Design](https://www.sutd.edu.sg/) in 2019 (supervised by [Asst. Prof. Sudipta Chattopadhyay](https://asset-group.github.io/), [Dr. Martin Ochoa](https://martin-ochoa.github.io/) and [Assoc. Prof. Huaqun Guo](https://www.singaporetech.edu.sg/directory/faculty/huaqun-guo)), my MSc in *Computer Science* from [University of Trento](https://www.unitn.it/en) in 2012 (supervised by [Prof. Bruno Crispo](http://disi.unitn.it/~crispo/)), and my BSc in *Computer Science & IT* from [Arba Minch University](https://www.amu.edu.et/) in 2008. 
 
 Currently, I am a Research Fellow in Cybersecurity with [Prof. Jianying Zhou](http://jianying.space/) at [Singapore University of Technology and Design](https://www.sutd.edu.sg/) (in Singapore). Previously, I was a *Research Scientist* in Cybersecurity at the [Institute for Infocomm Research (I2R), A*STAR](https://www.a-star.edu.sg/i2r) (in Singapore), a *Software Engineer* at [Femar Consulting s.r.l](https://www.femarconsulting.com/) (in Italy), an *Assistant Researcher* in Cybersecurity at the [Security \& Trust (ST)](https://st.fbk.eu/) unit of [Fondazione Bruno Kessler (FBK)](https://www.fbk.eu/en/) (in Italy), a Research Intern at [Advanced Digital Sciences Center (ADSC)](http://adsc.illinois.edu/) (in Singapore), and a *Software Engineer* in Cybersecurity at [Information Network Security Agency (INSA)](https://www.insa.gov.et/) (in Ethiopia). 
 
