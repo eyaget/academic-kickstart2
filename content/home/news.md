@@ -73,6 +73,7 @@ subtitle = ""
 <div class="boxInfo">
   
   **25 May 2022**: We are organizing the [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **~~Deadline: 7 Jul 2022.~~** 
+   **15 Sep 2021**: We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **~~Deadline: 20 Nov 2021 (<span style="color:red;">Extended</span>).~~**
 </div>
   
 <div class="boxInfo">
