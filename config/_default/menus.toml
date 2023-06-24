@@ -40,11 +40,11 @@
   url = "#teaching"
   weight = 60
   
-[[main]]
-  name = "Posts"
+#[[main]]
+  #name = "Posts"
   # identifier = "posts"
-  url = "#posts"
-  weight = 70
+  #url = "#posts"
+  #weight = 70
 
 #[[main]]
   #name = "Tutorials"
