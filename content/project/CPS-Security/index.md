@@ -1,6 +1,6 @@
 ---
 title: ICS/CPS Security
-#priority: 1
+priority: 1
 summary: The ICS/CPS has been widely adopted in various critical infrastructures, hence they have also been a strategic target of cybercrime. I extensively involved in the security of ICS/CPS to address a wide-range of security, memory-safety and resilience issues.
 tags:
 - ICS Security
