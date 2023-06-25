@@ -1,5 +1,6 @@
 ---
 title: IIoT Security
+priority: 1
 summary: In this project, we secure resource-constrained IoT devices against a wide-range of security concerns. In particular, we work on lightweight multi-factor authenticated key exchange schemes to establish secure communication channels in the IIoT network.
 tags:
 - IoT Security
