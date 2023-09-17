@@ -67,11 +67,11 @@ subtitle = ""
 +++
 
 **Web Chair:**
-  * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)
-  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/)
+  * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (1st Round Deadline: 21 Aug 2023; 2nd Round Deadline: 7 Dec 2023)
+  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (1st Round Deadline: 8 Dec 2023; 2nd Round Deadline: 18 Feb 2024)
   
 **PC Co-Chair:**
-  * [IEEE SOLI'23](https://2023.ieee-soli.org/) 
+  * [IEEE SOLI'23](https://2023.ieee-soli.org/) (Submission Deadline: 30 Sep 2023 (Extended))
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
