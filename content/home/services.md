@@ -68,6 +68,7 @@ subtitle = ""
 
 **Web Chair:**
   * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)
+  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/)
   
 **PC Co-Chair:**
   * [IEEE SOLI'23](https://2023.ieee-soli.org/) 
@@ -77,6 +78,7 @@ subtitle = ""
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
 **PC Member:**
+  * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE MASS'21](https://eng.auburn.edu/conference/ieee-mass2021/#) (for the Security & Privacy track)
   * [IRC-SET’21](https://ircset.org/main/conference-2021/)
@@ -85,6 +87,7 @@ subtitle = ""
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
 **Conference Sub-Reviewer:**
+  * [ISC'23](https://isc23.cs.rug.nl/docs/home/)
   * [ACNS'23](https://sulab-sever.u-aizu.ac.jp/ACNS2023/)
   * [ISC'21](https://isc2021.petra.ac.id/)
   * [ESORICS’20](https://www.surrey.ac.uk/esorics-2020)
