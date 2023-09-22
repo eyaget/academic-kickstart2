@@ -74,7 +74,7 @@ subtitle = ""
 * *22 June 2023*: We are organizing the [IEEE SOLI'23](https://2023.ieee-soli.org/) conference in Singapore. Consider submitting your work. **Paper Submission Deadline: 30 Sep 2023 (<span style="color:red;">Extended</span>)**.
 * *03 June 2023*:  We are organizing the [IRC-SET'23](https://ircset.org/main/conference-2023/) conference. Consider submitting your work. **Paper Submission Deadline: 15 Jul 2023.**
 
-* *25 May 2022*: <span style="background-color: #A9A9A9">We are organizing the</span> [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **Paper Submission Deadline: 7 Jul 2022.**
+* *25 May 2022*: <span style="color: rgb(180, 180, 180);">We are organizing the</span> [IRC-SET'22](https://ircset.org/main/conference-2022/) conference. Consider submitting your recent research work. **Paper Submission Deadline: 7 Jul 2022.**
 * *15 Sep 2021*: We are organizing the [IEEE SOLI'21](https://2021.ieee-soli.org/) conference. Consider submitting your research work. **Paper Submission Deadline: 20 Nov 2021 (<span style="color:red;">Extended</span>)**.
 * *05 May 2021*: We are organizing the [IRC-SET'21](https://ircset.org/main/conference-2021/) conference. Consider submitting your research work. **Paper Submission Deadline: 7 Jul 2021.** 
 
