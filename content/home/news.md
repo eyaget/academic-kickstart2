@@ -70,7 +70,7 @@ subtitle = ""
 +++
 
 ## **News:**
-* *9 Sep 2023*: [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (co-located with [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)) will be held in Singapore. I am serving as a ***Web Chair***. Consider submitting your work. **Paper Submission deadlines: *21 Aug 2023*** (1st round) & ***7 Dec 2023*** (2nd round).
+* *9 Sep 2023*: [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (co-located with [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)) will be held in Singapore. I am serving as a ***Web Chair***. Consider submitting your work. **Paper Submission deadlines: *8 Dec 2023*** (1st round) & ***18 Feb 2024*** (2nd round).
 * *23 June 2023*: [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (a flagship conference in Cybersecurity) will be held in Singapore. I am serving as a ***Web Chair***. Consider submitting your work. **Paper Submission deadlines: *21 Aug 2023*** (1st round) & ***7 Dec 2023*** (2nd round).
 * *22 June 2023*: We are organizing the [IEEE SOLI'23](https://2023.ieee-soli.org/) conference in Singapore. Consider submitting your work. **Paper Submission Deadline: 30 Sep 2023 (<span style="color:red;">Extended</span>)**.
 * *03 June 2023*:  We are organizing the [IRC-SET'23](https://ircset.org/main/conference-2023/) conference. Consider submitting your work. **Paper Submission Deadline: 15 Jul 2023.** 
