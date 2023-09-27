@@ -24,13 +24,14 @@ email = "eyasu_chekole@sutd.edu.sg"
 # List (academic) interests or hobbies
 interests = [
   "Software & System Security",
-  "Memory Safety",
+  "Memory Safety & Resilience",
   "OT (ICS/CPS) Security",
   # "Industrial Control & Cyber-Physical Systems Security",
   "IoT/IIoT Security",
-  "Critical Infrastructures Security",
-  "V2X Security",
+  # "Critical Infrastructures Security",
   "Applied Cryptography",
+  "ML/AI-Driven Security",
+  "V2X Security",
   "Blockchain",
   "Access Control Models",
   "Privacy-Preserving Approaches",
