@@ -4,8 +4,8 @@ authors:
 - Rajaram Thulasiraman
 - Jianying Zhou
 title: "EARIC: Exploiting ADC Registers in IoT and Control Systems"
-date: "2023-04-20"
-#doi: "10.1016/j.ijcip.2021.100431"
+date: "2023-10-04"
+doi: "https://doi.org/10.1007/978-3-031-41181-6_14"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-04-20"
