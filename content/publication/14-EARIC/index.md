@@ -32,8 +32,8 @@ tags:
 featured: false
 
 links:
- - name: Preprint
-   url: "https://www.techrxiv.org/articles/preprint/EARIC_Exploiting_ADC_Registers_in_IoT_and_Control_Systems/21215588"
+ #- name: Preprint
+   #url: "https://www.techrxiv.org/articles/preprint/EARIC_Exploiting_ADC_Registers_in_IoT_and_Control_Systems/21215588"
  #- name: Publication Site
    #url: "https://www.sciencedirect.com/science/article/abs/pii/S1874548221000238"
 #url_pdf: https://www.sciencedirect.com/science/article/pii/S0167404820301061
