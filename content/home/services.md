@@ -79,6 +79,7 @@ subtitle = ""
 
 **PC Member:**
   * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (1st Round Deadline: **8 Dec 2023**; 2nd Round Deadline: **18 Feb 2024**)
+  * [IEEE SOLI'23](https://2023.ieee-soli.org/)
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE MASS'21](https://eng.auburn.edu/conference/ieee-mass2021/#) (for the Security & Privacy track)
