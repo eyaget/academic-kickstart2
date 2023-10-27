@@ -72,6 +72,7 @@ subtitle = ""
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
+  * [Link](https://example.org/ "title" target="_blank")
 
 **Web Chair:**
   * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
