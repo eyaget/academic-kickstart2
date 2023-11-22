@@ -99,6 +99,6 @@ subtitle = ""
   * [CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
 
 **Journal Articles Reviewer:**
-  * [IEEE IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2023
+  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), 2023
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), 2020
   * [International Journal of Distributed Sensor Networks (DSN)](https://journals.sagepub.com/loi/dsn), 2020
