@@ -66,6 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 
+  * Received **Best Service Award** from [IEEE SOLI 2023 Conference](https://2023.ieee-soli.org/), December 2023.
   * [Our **CRUISE** project won the **Singapore Public Sector Transformation Awards 2020**, in the **“Dare To Do”** category](https://www.a-star.edu.sg/Research/our-people/honours-and-accolades?utm_source=homepage&utm_campaign=cruise-ing-to-a-win-&utm_medium=banner), October 2020, Singapore. <!--- Image link: https://www.a-star.edu.sg/images/librariesprovider1/default-album/research/our-people/cruise-photo-montage.jpg?sfvrsn=c4e53d31_2 -->
   * Received [**"Exceptional Research Project"** award from **MSD** at the *Fostering Industrial Research Success Together 2017 (FIRST'17)* annual research showcase hosted by SUTD](https://www.sutd.edu.sg/Galleries/FIRST-2017-Snapshot/FIRST-industry-workshop_-346.jpg), July 2017, Singapore.
   * Received [**"Exceptional Research Project"** award from **TUV SUD** at the *Fostering Industrial Research Success Together 2017 (FIRST'17)* annual research showcase hosted by SUTD](https://www.sutd.edu.sg/Galleries/FIRST-2017-Snapshot/FIRST-industry-workshop_-360.jpg), July 2017, Singapore.
