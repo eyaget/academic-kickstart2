@@ -75,7 +75,7 @@ subtitle = ""
 
 **Web Chair:**
   * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
-  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **8 Dec 2023** (1st Round) & **18 Feb 2024** (2nd Round))
+  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
 **PC Member:**
   * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
