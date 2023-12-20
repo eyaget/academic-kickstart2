@@ -78,7 +78,7 @@ subtitle = ""
   * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **8 Dec 2023** (1st Round) & **18 Feb 2024** (2nd Round))
 
 **PC Member:**
-  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **8 Dec 2023** (1st Round) & **18 Feb 2024** (2nd Round))
+  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
   * [IEEE SOLI'23](https://2023.ieee-soli.org/)
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
