@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-72817-9_9
+url_pdf: pdf/CyberICPS-2017
 #url_pdf: pdf/icss-final.pdf
 #url_code: '#'
 #url_dataset: '#'
