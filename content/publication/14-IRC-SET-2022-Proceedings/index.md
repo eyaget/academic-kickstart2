@@ -8,11 +8,12 @@ authors:
 - Peng Cheng Wang
 - Jiqiang Lu (editors)
 title: "IRC-SET 2022: Proceedings of the 8th IRC Conference on Science, Engineering and Technology"
-date: "2022-08-07"
+date: "2022-08-06"
 doi: "10.1007/978-981-19-7222-5"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2023-05-30"
+publishDate: "2023-08-06"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
