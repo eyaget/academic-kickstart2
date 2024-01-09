@@ -6,11 +6,13 @@ authors:
 - Eyasu Getahun Chekole
 - Umayal Lakshmanan (editors)
 title: "IRC-SET 2021: Proceedings of the 7th IRC Conference on Science, Engineering and Technology"
-date: "2022-08-01"
+#date: "2022-08-01"
+date: "2021-08-07"
 doi: "10.1007/978-981-16-9869-9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-11"
+#publishDate: "2021-12-11"
+publishDate: "2021-08-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
