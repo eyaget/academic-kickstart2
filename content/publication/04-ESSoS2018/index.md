@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: Custom Link
 #  url: http://example.org
-url_pdf: https://link.springer.com/chapter/10.1007/978-3-319-94496-8_2
+url_pdf: pdf/ESSoS-2018.pdf
 #url_pdf: pdf/icss-final.pdf
 #url_code: '#'
 #url_dataset: '#'
