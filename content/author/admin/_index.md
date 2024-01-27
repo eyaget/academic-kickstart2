@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Research Fellow in Cybersecurity"
+role = "Researcher in Cybersecurity"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -23,13 +23,15 @@ email = "eyasu_chekole@sutd.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
+  "Applied Cryptography",
+  "Multi-Factor Security",
+  "Decentralized Identity",
   "Software & System Security",
   "Memory Safety & Resilience",
   "OT (ICS/CPS) Security",
   # "Industrial Control & Cyber-Physical Systems Security",
   "IoT/IIoT Security",
   # "Critical Infrastructures Security",
-  "Applied Cryptography",
   "ML/AI-Driven Security",
   "V2X Security",
   "Blockchain",
