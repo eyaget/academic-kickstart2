@@ -91,7 +91,8 @@ subtitle = ""
   * [IRC-SET’19](https://ircset.org/main/conference-2019/) (Finance Chair)
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
-**Conference Sub-Reviewer:**
+**Conference External Reviewer:**
+  * [CODASPY'24](https://www.codaspy.org/2024/)
   * [ACNS'24](https://wp.nyu.edu/acns2024/)
   * [ISC'23](https://isc23.cs.rug.nl/docs/home/)
   * [ACNS'23](https://sulab-sever.u-aizu.ac.jp/ACNS2023/)
