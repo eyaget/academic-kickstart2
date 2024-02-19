@@ -5,7 +5,7 @@ authors:
 - Eyasu Getahun Chekole
 title: "VulnGen: Vulnerable Virtual Machine Generator"
 date: "2023-12-12"
-#doi: "https://doi.org/10.1007/978-3-031-41181-6_14"
+doi: "https://doi.org/10.1109/SOLI60636.2023.10425569"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-12-12"
