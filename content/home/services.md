@@ -79,7 +79,7 @@ subtitle = ""
 
 **PC Member:**
   * [IWSEC'24](https://www.iwsec.org/2024/index.html) (Submission Deadline: **16 Apr 2024**)
-  * [CPSCom'24](https://ieee-cybermatics.org/2024/cpscom/) (Submission Deadline: **15 Mar 2024**)
+  * [CPSCom'24](https://ieee-cybermatics.org/2024/cpscom/) (Submission Deadline: **15 Apr 2024**)
   * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
   * [IEEE SOLI'23](https://2023.ieee-soli.org/)
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
