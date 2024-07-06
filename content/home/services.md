@@ -74,13 +74,13 @@ subtitle = ""
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
 **Web Chair:**
-  * [ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
-  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
+  * [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
+  * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
 **PC Member:**
   * [IWSEC'24](https://www.iwsec.org/2024/index.html) (Submission Deadline: **28 Apr 2024**)
-  * [CPSCom'24](https://ieee-cybermatics.org/2024/cpscom/) (Submission Deadline: **1 May 2024**)
-  * [CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
+  * [IEEE CPSCom'24](https://ieee-cybermatics.org/2024/cpscom/) (Submission Deadline: **1 May 2024**)
+  * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
   * [IEEE SOLI'23](https://2023.ieee-soli.org/)
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
@@ -92,19 +92,19 @@ subtitle = ""
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
 **Conference External Reviewer:**
-  * [CODASPY'24](https://www.codaspy.org/2024/)
+  * [ACM CODASPY'24](https://www.codaspy.org/2024/)
   * [ACNS'24](https://wp.nyu.edu/acns2024/)
   * [ISC'23](https://isc23.cs.rug.nl/docs/home/)
   * [ACNS'23](https://sulab-sever.u-aizu.ac.jp/ACNS2023/)
   * [ISC'21](https://isc2021.petra.ac.id/)
   * [ESORICS’20](https://www.surrey.ac.uk/esorics-2020)
   * [SecureComm’19](https://securecomm.eai-conferences.org/2019/)
-  * [CODASPY’18](http://www.codaspy.org/2018/)
-  * [CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
+  * [ACM CODASPY’18](http://www.codaspy.org/2018/)
+  * [IEEE CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
 
 **Journal Articles Reviewer:**
   * [Computers & Security (Elsevier)](https://www.sciencedirect.com/journal/computers-and-security), 2024
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024
   * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
-  * [International Journal of Distributed Sensor Networks (DSN)](https://journals.sagepub.com/loi/dsn): 2020
+  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
