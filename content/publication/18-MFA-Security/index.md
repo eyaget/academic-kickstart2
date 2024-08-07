@@ -4,7 +4,7 @@ authors:
 - Eyasu Getahun Chekole
 - Jianying Zhou
 title: "Excavating Vulnerabilities Lurking in Multi-Factor Authentication Protocols: A Systematic Security Analysis"
-date: "2022-07-29"
+date: "2024-07-29"
 doi: "https://doi.org/10.48550/arXiv.2407.20459"
 
 # Schedule page publish date (NOT publication's date).
