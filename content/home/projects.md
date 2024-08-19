@@ -37,8 +37,8 @@ content:
     tag: SecSES
   # - name: ReaCoN
     # tag: ReaCoN
- - name: ICS/CPS Security
-    tag: ICS Security
+ - name: IIoT Security
+    tag: IIoT-Security
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
