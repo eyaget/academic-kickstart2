@@ -3,7 +3,7 @@ title: V2X Security
 summary: In this project, we secure Vehicle-to-Everything (V2X) communications against a wide-range of cyber threats.
 tags:
 - V2X-Security
-date: "2021-08-01T00:00:00Z"
+date: "2021-04-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
