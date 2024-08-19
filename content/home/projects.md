@@ -29,8 +29,6 @@ content:
     tag: '*'
   -name: IIoT Security
     tag: IIoT-Security
-  - name: V2X-Security
-    tag: V2X-Security
   - name: Blockchain
     tag: Blockchain
   - name: Memory-Safety
