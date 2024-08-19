@@ -41,7 +41,7 @@ content:
     tag: IIoT-Security
   - name: ICS/CPS Security
     tag: ICS Security
-  -name: MFS
+  - name: MFS
     tag: Multi-Factor Security
 
 design:
