@@ -41,6 +41,8 @@ content:
     tag: IIoT-Security
   - name: ICS/CPS Security
     tag: ICS Security
+  -name: MFS
+    tag: Multi-Factor Security
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
