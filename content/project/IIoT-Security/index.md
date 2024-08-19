@@ -4,8 +4,8 @@ priority: 1
 summary: In this project, we secure resource-constrained IoT devices against a wide-range of security concerns. In particular, we work on lightweight multi-factor authenticated key exchange schemes to establish secure communication channels in the IIoT network.
 tags:
 - IoT Security
-- IIOT Security
-- AKE
+- IIoT Security
+- Authenticated Key Exchange
 date: "2022-10-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
