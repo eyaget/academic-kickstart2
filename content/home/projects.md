@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  -name: IIoT Security
+    tag: IIoT Security
   - name: V2X-Security
     tag: V2X-Security
   - name: Blockchain
