@@ -37,8 +37,6 @@ content:
     tag: SecSES
   # - name: ReaCoN
     # tag: ReaCoN
-  - name: IIoT Security
-    tag: IIoT-Security
  - name: ICS/CPS Security
     tag: ICS Security
 
