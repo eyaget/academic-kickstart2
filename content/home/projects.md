@@ -48,7 +48,7 @@ content:
   - name: Biometrics
     tag: Biometrics
   - name: Applied Cryptography
-    tag: Applied Cryptography
+    tag: Cryptography
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
