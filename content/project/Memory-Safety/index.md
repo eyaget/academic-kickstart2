@@ -1,6 +1,6 @@
 ---
 title: Memory Safety
-priority: 1
+priority: 3
 summary: Enforcing memory-safety in critical infrastructures, particularily in the cyber-physical systems (CPS) and industrial control systems (ICS) domain.
 tags:
 - Memory-Safety
