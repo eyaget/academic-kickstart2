@@ -43,6 +43,12 @@ content:
     tag: ICS Security
   - name: MFS
     tag: Multi-Factor Security
+  - name: DDID
+    tag: DDID
+  - name: Biometrics
+    tag: Biometrics
+  - name: Applied Cryptography
+    tag: Applied Cryptography
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
