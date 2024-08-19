@@ -5,7 +5,7 @@ summary: The ICS/CPS has been widely adopted in various critical infrastructures
 tags:
 - ICS Security
 - CPS Security
-date: "2017-04-27T00:00:00Z"
+date: "2022-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
