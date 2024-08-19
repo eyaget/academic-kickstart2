@@ -43,7 +43,7 @@ content:
     tag: ICS Security
   - name: MFS
     tag: Multi-Factor Security
-  - name: Decentralized Digital Identities
+  - name: DDID
     tag: DDID
   - name: Biometrics
     tag: Biometrics
