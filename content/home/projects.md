@@ -39,6 +39,7 @@ content:
     # tag: ReaCoN
   - name: Other
     tag: IIoT-Security
+    tag: ICS Security
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
