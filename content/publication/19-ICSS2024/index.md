@@ -3,11 +3,11 @@ authors:
 - Eyasu Getahun Chekole
 - Jianying Zhou
 title: "MFAA: Historical Hash Based Multi-Factor Authentication and Authorization in IIoT"
-date: "2024-12-10"
+date: "2024-10-10"
 #doi: "https://doi.org/10.1109/SOLI60636.2023.10425569"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-12-10"
+publishDate: "2024-10-10"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
