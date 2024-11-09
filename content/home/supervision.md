@@ -67,7 +67,7 @@ subtitle = ""
 +++
   
 **MSc Students**
-  * **Howard Halim**, SUTD (Completed Sep 2024) -- Now Associate Researcher at SUTD
+  * **Howard Halim**, SUTD (Completed Sep 2024)
   * **Tan Jia Han**, SUTD (Completed Sep 2024)
   * **Lukshana Subahani**, SUTD (Completed Sep 2024)
   * **Rajanikila Rajamarthandan**, SUTD (Completed Sep 2024)
