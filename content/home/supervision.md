@@ -67,13 +67,13 @@ subtitle = ""
 +++
   
 **MSc Students**
-  * Howard Halim (Completed Sep 2024) -- Now Associate Researcher at SUTD
-  * Tan Jia Han (Completed Sep 2024)
-  * Lukshana Subahani (Completed Sep 2024)
-  * Rajanikila Rajamarthandan (Completed Sep 2024)
-  * Ang Kok Wee (Completed Sep 2023)
-  * Sim Wei Zhou (Completed Sep 2022)
-  * Rajaram Thulasiraman (Completed Sep 2022)
+  * **Howard Halim**, SUTD (Completed Sep 2024) -- Now Associate Researcher at SUTD
+  * **Tan Jia Han**, SUTD (Completed Sep 2024)
+  * **Lukshana Subahani**, SUTD (Completed Sep 2024)
+  * **Rajanikila Rajamarthandan**, SUTD (Completed Sep 2024)
+  * **Ang Kok Wee**, SUTD (Completed Sep 2023)
+  * **Sim Wei Zhou**, SUTD (Completed Sep 2022)
+  * **Rajaram Thulasiraman**, SUTD (Completed Sep 2022)
 
 **PhD Students**
 
