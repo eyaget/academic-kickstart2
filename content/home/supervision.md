@@ -77,7 +77,7 @@ subtitle = ""
 
 **PhD Students**
 
-I have worked or have been working with the following PhD studets at SUTD:
+I have worked or have been working with the following PhD students at SUTD:
   * **Xuelian Cao** -- Visiting student from *Southwest University, China* (Sep 2024 - Now)
   * **Fuyi Wang** -- Visiting student from *Deakin University, Australia* (Aug 2024 - Now)
   * **Jin Ma** -- Intern from *Clemson University, USA* (May 2024 - Aug 2024)
