@@ -70,7 +70,7 @@ subtitle = ""
   * Howard Halim (Completed Sep 2024) -- Now Associate Researcher at SUTD
   * Jia Han (Completed Sep 2024)
   * Lukshana Subahani (Completed Sep 2024)
-  * Rajanikila (Nikila) Rajamarthandan (Completed Sep 2024)
+  * Rajanikila Rajamarthandan (Completed Sep 2024)
   * Ang Kok Wee Adrian (Completed Sep 2023)
   * Sim Wei Zhou (Completed Sep 2022)
   * Rajaram Thulasiraman (Completed Sep 2022)
