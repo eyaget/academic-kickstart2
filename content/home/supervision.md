@@ -76,7 +76,8 @@ subtitle = ""
   * Rajaram Thulasiraman (Completed Sep 2022)
 
 **PhD Students**
-I worked/have been working with the following visiting PhD studets
+
+I worked/have been working with the following visiting PhD studets:
   * Xuelian Cao - Southwest University, China (Sep 2024 - Now)
   * Fuyi Wang - Deakin University, Australia (Aug 2024 - Now)
   * Jin Ma - Clemson University, USA (May 2024 - Aug 2024)
