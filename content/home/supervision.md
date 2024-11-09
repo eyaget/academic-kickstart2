@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
   
-**MSc Students:**
+**MSc Students**
   * Howard Halim (Completed Sep 2024) -- Now Associate Researcher at SUTD
   * Jia Han (Completed Sep 2024)
   * Lukshana Subahani (Completed Sep 2024)
@@ -74,4 +74,10 @@ subtitle = ""
   * Ang Kok Wee Adrian (Completed Sep 2023)
   * Sim Wei Zhou (Completed Sep 2022)
   * Rajaram Thulasiraman (Completed Sep 2022)
+
+**PhD Students**
+I worked/have been working with the following visiting PhD studets
+  * Xuelian Cao - Southwest University, China (Sep 2024 - Now)
+  * Fuyi Wang - Deakin University, Australia (Aug 2024 - Now)
+  * Jin Ma - Clemson University, USA (May 2024 - Aug 2024)
 
