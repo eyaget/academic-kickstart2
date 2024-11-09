@@ -39,6 +39,12 @@
   # identifier = "teaching"
   url = "#teaching"
   weight = 60
+
+[[main]]
+  name = "Supervision"
+  # identifier = "supervision"
+  url = "#supervision"
+  weight = 65
   
 #[[main]]
   #name = "Posts"
