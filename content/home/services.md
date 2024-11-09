@@ -67,7 +67,7 @@ subtitle = ""
 +++
   
 **PC Co-Chair:**
-  * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/)^<mark>New</mark>^ <span style="background-color: #FFFF00">Marked text</span> (Submission Deadlines: **10 Jan 2025** (1st Round) & **15 Mar 2025** (2nd Round))
+  * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/)<sup><span style="background-color: #FFFF00, color:red">Marked text</span></sup> (Submission Deadlines: **10 Jan 2025** (1st Round) & **15 Mar 2025** (2nd Round))
   * [IEEE SOLI'23](https://2023.ieee-soli.org/) (Submission Deadline: **30 Sep 2023 (<span style="color:red;">Extended</span>)**)
   * [IRC-SET'23](https://ircset.org/main/conference-2023/)
   * [IRC-SET'22](https://ircset.org/main/conference-2022/)
