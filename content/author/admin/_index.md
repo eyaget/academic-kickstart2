@@ -23,8 +23,9 @@ email = "eyasu_chekole@sutd.edu.sg"
 
 # List (academic) interests or hobbies
 interests = [
-  "Applied Cryptography",
   "Multi-Factor Security",
+  "Biometrics",
+  "Applied Cryptography",
   "Decentralized Identity",
   "Software & System Security",
   "Memory Safety & Resilience",
