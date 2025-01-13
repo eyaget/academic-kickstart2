@@ -93,6 +93,7 @@ subtitle = ""
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
 **Conference External Reviewer:**
+  * [ACM CODASPY'25](https://www.codaspy.org/2025/)
   * [ACISP'25](https://uow-ic2.github.io/acisp2025/)
   * [ICSS'24](https://www.acsac.org/2024/workshops/icss/)
   * [ACM CODASPY'24](https://www.codaspy.org/2024/)
