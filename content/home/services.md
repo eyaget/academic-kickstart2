@@ -107,7 +107,7 @@ subtitle = ""
   * [IEEE CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
 
 **Journal Co-Guest Editor:**
-  * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)"): 2024 -- 2025
+  * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH){:target="_blank" rel="noopener"}"): 2024 -- 2025
 
 **Journal Articles Reviewer:**
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024, 2025
