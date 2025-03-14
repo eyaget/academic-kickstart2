@@ -114,6 +114,6 @@ subtitle = ""
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024, 2025
   * [Computers & Security (Elsevier)](https://www.sciencedirect.com/journal/computers-and-security): 2024, 2025
   * [Journal of Information Security and Applications (Elsevier)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications): 2025
-  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024
+  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024, 2025
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
   * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
