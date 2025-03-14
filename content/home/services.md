@@ -79,6 +79,7 @@ subtitle = ""
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
 **PC Member:**
+  * [IWSEC'25](https://www.iwsec.org/2025/) (Submission Deadline: **3 Apr 2025** (1st Round) & **17 Jul 2025** (2nd Round))
   * [IWSEC'24](https://www.iwsec.org/2024/index.html) (Submission Deadline: **28 Apr 2024**)
   * [IEEE CPSCom'24](https://ieee-cybermatics.org/2024/cpscom/) (Submission Deadline: **1 May 2024**)
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
