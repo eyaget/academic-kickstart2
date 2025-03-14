@@ -67,19 +67,30 @@ subtitle = ""
 +++
   
 **MSc Students**
-  * **Howard Halim**, SUTD (Completed Sep 2024)
-  * **Tan Jia Han**, SUTD (Completed Sep 2024)
-  * **Lukshana Subahani**, SUTD (Completed Sep 2024)
-  * **Rajanikila Rajamarthandan**, SUTD (Completed Sep 2024)
-  * **Ang Kok Wee**, SUTD (Completed Sep 2023)
-  * **Sim Wei Zhou**, SUTD (Completed Sep 2022)
-  * **Rajaram Thulasiraman**, SUTD (Completed Sep 2022)
+  
+  **Current:**
+  * **Chen Yuanlong**, SUTD (Expected time of completion: *Sep 2025*)
+  * **Chua Jun Xiong Glen**, SUTD (Expected time of completion: *Sep 2025*)
+  * **Krishnan Parthipan**, SUTD (Expected time of completion: *Sep 2025*)
+    
+  **Alumni:**
+  * **Howard Halim**, SUTD (Time of ompletion: *Sep 2024*)
+  * **Tan Jia Han**, SUTD (Time of ompletion: *Sep 2024*)
+  * **Lukshana Subahani**, SUTD (Time of ompletion: *Sep 2024*)
+  * **Rajanikila Rajamarthandan**, SUTD (Time of ompletion: *Sep 2024*)
+  * **Ang Kok Wee**, SUTD (Time of ompletion: *Sep 2023*)
+  * **Sim Wei Zhou**, SUTD (Time of ompletion: *Sep 2022*)
+  * **Rajaram Thulasiraman**, SUTD (Time of ompletion: *Sep 2022*)
+
+**Undergraduate Interns**
+* **Kunal Kumar**, SUTD (Period: Feb 2025 -- )
+* **Shubham Sharma**, SUTD (Period: Feb 2025 -- )
 
 **PhD Students**
 
-I have worked or have been working with the following PhD students at SUTD:
-  * **Xuelian Cao** -- Visiting student from *Southwest University, China* (Sep 2024 -- )
-  * **Fuyi Wang** -- Visiting student from *Deakin University, Australia* (Aug 2024 -- )
+I worked with the following PhD students at SUTD:
+  * **Xuelian Cao** -- Visiting student from *Southwest University, China* (Sep 2024 -- Feb 2025)
+  * **Fuyi Wang** -- Visiting student from *Deakin University, Australia* (Aug 2024 -- Mar 2025)
   * **Jin Ma** -- Intern from *Clemson University, USA* (May 2024 -- Aug 2024)
   * **Ann Yi Wong** -- Part-time student at *SUTD, Singapore* (July 2021 -- Dec 2022)
 
