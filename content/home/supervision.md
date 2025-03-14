@@ -83,8 +83,8 @@ subtitle = ""
   * **Rajaram Thulasiraman**, SUTD (Time of completion: *Sep 2022*)
 
 **Undergraduate Interns**
-* **Kunal Kumar**, SUTD (Period: Feb 2025 -- )
-* **Shubham Sharma**, SUTD (Period: Feb 2025 -- )
+* **Kunal Kumar**, SUTD (Period: *Feb 2025 -- *)
+* **Shubham Sharma**, SUTD (Period: *Feb 2025 -- *)
 
 **PhD Students**
 
