@@ -74,13 +74,13 @@ subtitle = ""
   * **Krishnan Parthipan**, SUTD (Expected time of completion: *Sep 2025*)
     
   **Alumni:**
-  * **Howard Halim**, SUTD (Time of ompletion: *Sep 2024*)
-  * **Tan Jia Han**, SUTD (Time of ompletion: *Sep 2024*)
-  * **Lukshana Subahani**, SUTD (Time of ompletion: *Sep 2024*)
-  * **Rajanikila Rajamarthandan**, SUTD (Time of ompletion: *Sep 2024*)
-  * **Ang Kok Wee**, SUTD (Time of ompletion: *Sep 2023*)
-  * **Sim Wei Zhou**, SUTD (Time of ompletion: *Sep 2022*)
-  * **Rajaram Thulasiraman**, SUTD (Time of ompletion: *Sep 2022*)
+  * **Howard Halim**, SUTD (Time of completion: *Sep 2024*)
+  * **Tan Jia Han**, SUTD (Time of completion: *Sep 2024*)
+  * **Lukshana Subahani**, SUTD (Time of completion: *Sep 2024*)
+  * **Rajanikila Rajamarthandan**, SUTD (Time of completion: *Sep 2024*)
+  * **Ang Kok Wee**, SUTD (Time of completion: *Sep 2023*)
+  * **Sim Wei Zhou**, SUTD (Time of completion: *Sep 2022*)
+  * **Rajaram Thulasiraman**, SUTD (Time of completion: *Sep 2022*)
 
 **Undergraduate Interns**
 * **Kunal Kumar**, SUTD (Period: Feb 2025 -- )
