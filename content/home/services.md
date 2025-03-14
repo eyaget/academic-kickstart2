@@ -74,6 +74,9 @@ subtitle = ""
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
+**Publication Chair:**
+  * [IEEE SOLI'25](https://ieee-soli.org/2025/) (Submission Deadlines: **1 Jun 2025**)
+  * 
 **Web Chair:**
   * [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
