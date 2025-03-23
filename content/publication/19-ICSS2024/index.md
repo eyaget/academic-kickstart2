@@ -4,7 +4,7 @@ authors:
 - Jianying Zhou
 title: "MFAA: Historical Hash Based Multi-Factor Authentication and Authorization in IIoT"
 date: "2024-12-09"
-doi: "https://ieeexplore.ieee.org/document/10917933"
+doi: "https://doi.org/10.1109/ACSACW65225.2024.00021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-10-10"
