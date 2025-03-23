@@ -71,7 +71,7 @@ subtitle = ""
 +++
 
 ## **News:**
-* *8 Nov 2024*: I will co-chair [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (co-located with [ACM AsiaCCS'25](https://asiaccs2025.hust.edu.vn/)). It will be held in Hanoi, Vietnam. Consider submitting your research work. **Paper Submission deadlines: *~~10~~ 20 Jan 2025*** (1st round) & ***15 Mar 2025*** (2nd round).
+* *8 Nov 2024*: I will co-chair [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (co-located with [ACM AsiaCCS'25](https://asiaccs2025.hust.edu.vn/)). It will be held in Hanoi, Vietnam. Consider submitting your research work. **Paper Submission deadlines: *~~10~~ 20 Jan 2025*** (1st round) & ***~~15~~ 25 Mar 2025*** (2nd round).
 * *9 Sep 2023*: [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (co-located with [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/)) will be held in Singapore. I am serving as a ***Web Chair*** and ***PC Member***. Consider submitting your work. **Paper Submission deadlines: *15 Jan 2024*** (1st round) & ***18 Feb 2024*** (2nd round).
 * *23 June 2023*: [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (a flagship conference in Cybersecurity) will be held in Singapore. I am serving as a ***Web Chair*** and ***Local Organizing Committee Member***. Consider submitting your work. **Paper Submission deadlines: *21 Aug 2023*** (1st round) & ***7 Dec 2023*** (2nd round).
 * *22 June 2023*: We are organizing the [IEEE SOLI'23](https://2023.ieee-soli.org/) conference in Singapore. I am serving as a ***PC Co-Chair***. Consider submitting your work. **Paper Submission Deadline: 30 Sep 2023 (<span style="color:red;">Extended</span>)**.
