@@ -4,11 +4,11 @@ authors:
 - Eyasu Getahun Chekole
 - Jianying Zhou
 title: "Unveiling the Covert Vulnerabilities in Multi-Factor Authentication Protocols: A Systematic Review and Security Analysis"
-date: "2025-04-02"
-#doi: "https://doi.org/10.48550/arXiv.2407.20459"
+date: "2025-05-07"
+doi: "https://doi.org/10.1145/3734864"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-04-02"
+publishDate: "2025-05-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
