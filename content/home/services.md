@@ -66,6 +66,17 @@ subtitle = ""
  css_class = ""
 +++
   <!--- <sup><span style="color:#C70039; background-color: #FFFF00">New</span></sup> --->
+**Journal Co-Guest Editor:**
+  * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Aug 2025**): 2024 -- 2025
+
+**Journal Articles Reviewer:**
+  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024, 2025
+  * [Computers & Security (Elsevier)](https://www.sciencedirect.com/journal/computers-and-security): 2024, 2025
+  * [Journal of Information Security and Applications (Elsevier)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications): 2025
+  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024, 2025
+  * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
+  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
+
 **PC Co-Chair:**
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IEEE SOLI'23](https://2023.ieee-soli.org/) (Submission Deadline: **30 Sep 2023 (<span style="color:red;">Extended</span>)**)
@@ -99,6 +110,7 @@ subtitle = ""
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
 **Conference External Reviewer:**
+  * [ESORICS'25](https://esorics2025.sciencesconf.org/)
   * [ACM CODASPY'25](https://www.codaspy.org/2025/)
   * [ACISP'25](https://uow-ic2.github.io/acisp2025/)
   * [ICSS'24](https://www.acsac.org/2024/workshops/icss/)
@@ -111,14 +123,3 @@ subtitle = ""
   * [SecureComm’19](https://securecomm.eai-conferences.org/2019/)
   * [ACM CODASPY’18](http://www.codaspy.org/2018/)
   * [IEEE CPS-Sec’17](https://cns2017.ieee-cns.org/workshop/cps-sec-international-workshop-cyber-physical-systems-security.html) (co-located with IEEE CNS’17)
-
-**Journal Co-Guest Editor:**
-  * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Aug 2025**): 2024 -- 2025
-
-**Journal Articles Reviewer:**
-  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024, 2025
-  * [Computers & Security (Elsevier)](https://www.sciencedirect.com/journal/computers-and-security): 2024, 2025
-  * [Journal of Information Security and Applications (Elsevier)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications): 2025
-  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024, 2025
-  * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
-  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
