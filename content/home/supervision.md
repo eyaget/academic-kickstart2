@@ -90,9 +90,9 @@ subtitle = ""
 
 **PhD Students**
 
-I collaborated with the following PhD students at SUTD:
-  * **Xuelian Cao** -- Visiting student from *Southwest University, China* (*Sep 2024 -- Feb 2025*)
-  * **Fuyi Wang** -- Visiting student from *Deakin University, Australia* (*Aug 2024 -- Mar 2025*)
-  * **Jin Ma** -- Intern from *Clemson University, USA* (*May 2024 -- Aug 2024*)
-  * **Ann Yi Wong** -- Part-time student at *SUTD, Singapore* (*July 2021 -- Dec 2022*)
+I have collaborated with the following PhD students at SUTD:
+  * **Xuelian Cao**, Visiting student from *Southwest University, China* (*Sep 2024 -- Feb 2025*)
+  * **Fuyi Wang**, Visiting student from *Deakin University, Australia* (*Aug 2024 -- Mar 2025*)
+  * **Jin Ma**, Intern from *Clemson University, USA* (*May 2024 -- Aug 2024*)
+  * **Ann Yi Wong**, Part-time student at *SUTD, Singapore* (*July 2021 -- Dec 2022*)
 
