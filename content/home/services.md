@@ -73,10 +73,10 @@ subtitle = ""
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
   * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), Elsevier: 2025
-  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024, 2025
+  * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), IEEE: 2024, 2025
   * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration), Elsevier: 2025
-  * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
-  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
+  * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), Springer: 2020
+  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn), SAGE: 2020
 
 **PC Co-Chair:**
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
