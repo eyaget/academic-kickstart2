@@ -70,10 +70,11 @@ subtitle = ""
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Aug 2025**): 2024 -- 2025
 
 **Journal Articles Reviewer:**
-  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206): 2023, 2024, 2025
-  * [Computers & Security (Elsevier)](https://www.sciencedirect.com/journal/computers-and-security): 2024, 2025
-  * [Journal of Information Security and Applications (Elsevier)](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications): 2025
+  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
+  * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
+  * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), Elsevier: 2025
   * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12): 2024, 2025
+  * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration), Elsevier: 2025
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/): 2020
   * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn): 2020
 
