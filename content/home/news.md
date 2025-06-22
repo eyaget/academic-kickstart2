@@ -71,7 +71,7 @@ subtitle = ""
 +++
 
 ## **News:**
-*  <span style="color: red;">**22 June 2025**</span>: Our research work, ***BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication***, has been accepted at [ESORICS'25](https://esorics2025.sciencesconf.org/) (a flagship conference in Cybersecurity)!
+*  <span style="color: red;">**22 Jun 2025**</span>: Our research work, ***BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication***, has been accepted at [ESORICS'25](https://esorics2025.sciencesconf.org/) (a flagship conference in Cybersecurity)!
 * *3 May 2025*: I will serve as the ***Web Chair*** and ***PC Member*** of [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/). Consider submitting your latest research findings in *electronic privacy and security*. ***Paper Submission Deadline: 7 Jul 2025***.
 * *15 Feb 2025*: I will serve as the ***Publication Chair*** of [IEEE SOLI'25](https://ieee-soli.org/2025/). Consider submitting your latest research work. ***Paper Submission deadline: 1 Jun 2025***.
 * *8 Nov 2024*: I will co-chair [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (co-located with [ACM AsiaCCS'25](https://asiaccs2025.hust.edu.vn/)). It will be held in Hanoi, Vietnam on 26 Aug 2025. Consider submitting your research work in CPS/ICS security. **Paper Submission deadlines: *~~10~~ 20 Jan 2025*** (1st round) & ***~~15~~ 25 Mar 2025*** (2nd round).
