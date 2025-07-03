@@ -18,8 +18,8 @@ publishDate: "2018-06-26"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "In ***Proceedings of the International Symposium on Engineering Secure Software and Systems (ESSoS'18)***, Springer"
-publication_short: "In ***Proceedings of the International Symposium on Engineering Secure Software and Systems (ESSoS'18)***, Springer"
+publication: "In ***Proceedings of the 10th International Symposium on Engineering Secure Software and Systems (ESSoS'18)***, Springer"
+publication_short: "In ***Proceedings of the 10th International Symposium on Engineering Secure Software and Systems (ESSoS'18)***, Springer"
 
 abstract: Memory-safety attacks are one of the most critical threats against Cyber-Physical Systems (CPS). As opposed to mainstream systems, CPS often impose stringent timing constraints. Given such timing constraints, how can we protect CPS from memory-safety attacks? In this paper, we propose a full-stack memory-safety attack detection method to address this challenge. We also quantify the notion of tolerability of memory-safety overheads (MSO) in terms of the expected real-time constraints of a typical CPS. We implemented and evaluated our proposed solution on a real-world Secure Water Treatment (SWaT) testbed. Concretely, we show that our proposed solution incurs a memory-safety overhead of 419.91µs, which is tolerable for the real-time constraints imposed by the SWaT system. Additionally, We also discuss how different parameters of a typical CPS will impact the execution time of the CPS computational logic and memory safety overhead.
 
