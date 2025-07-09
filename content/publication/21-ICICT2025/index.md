@@ -6,7 +6,7 @@ authors:
 - Eyasu Getahun Chekole
 title: "Leveraging Artificial Intelligence Approaches for Smart Farming"
 date: "2025-03-14"
-#doi: "https://doi.org/10.1109/ACSACW65225.2024.00021"
+doi: "10.1109/ICICT64582.2025.00066"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-03-14"
