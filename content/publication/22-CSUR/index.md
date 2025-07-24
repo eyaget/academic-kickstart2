@@ -29,7 +29,7 @@ tags:
 featured: false
 
 links:
- - name: "[IF = 28]"
+ - name: "[IF = 28.0]"
    url: "https://dl.acm.org/journal/csur"
  #- name: Publication Site
    #url: "https://www.sciencedirect.com/science/article/abs/pii/S1874548221000238"
