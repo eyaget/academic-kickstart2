@@ -1,4 +1,8 @@
 ---
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 70  #Order that this section will appear.
 title: "My 1st post"
 date: 2025-08-04T05:25:03+00:00
 #weight: 1
