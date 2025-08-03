@@ -46,11 +46,11 @@
   url = "#supervision"
   weight = 65
   
-[[main]]
-  name = "Posts"
+#[[main]]
+  #name = "Posts"
   #identifier = "posts"
-  url = "#posts"
-  weight = 70
+  #url = "#posts"
+  #weight = 70
 
 #[[main]]
   #name = "Tutorials"
