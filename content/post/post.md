@@ -1,11 +1,11 @@
 ---
 title: "My 1st post"
 date: 2025-08-04T05:25:03+00:00
-# weight: 1
-# aliases: ["/first"]
+#weight: 1
+#aliases: ["/first"]
 tags: ["first"]
 author: "Me"
-# author: ["Me", "You"] # multiple authors
+#author: ["Me", "You"] #multiple authors
 showToc: true
 TocOpen: false
 draft: false
