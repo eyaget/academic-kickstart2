@@ -9,5 +9,5 @@ featured: false
 draft: false
 ---
 
-This is the body of my academic blog post.
+To be added.
 
