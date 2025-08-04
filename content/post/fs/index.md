@@ -1,9 +1,9 @@
 ---
-title: "My New Academic Blog Post"
+title: "My New Blog Post"
 date: 2025-08-04
-summary: "A brief summary of my new post."
-authors: ["eyasu-getahun"]
-tags: ["research", "biometrics", "security"]
+summary: "A brief summary of my new blog post."
+authors: ["Eyasu G. Chekole"]
+#tags: ["research", "biometrics", "security"]
 categories: ["Blog"]
 featured: false
 draft: false
