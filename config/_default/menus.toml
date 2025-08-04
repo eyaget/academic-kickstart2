@@ -49,7 +49,7 @@
 [[main]]
   name = "Posts"
   #identifier = "posts"
-  url = "#posts"
+  url = "post/"
   weight = 70
 
 #[[main]]
