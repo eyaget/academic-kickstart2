@@ -72,6 +72,7 @@ subtitle = ""
 **Journal Articles Reviewer:**
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
+  * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), IEEE: 2025
   * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), Elsevier: 2025
   * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), IEEE: 2024, 2025
   * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration), Elsevier: 2025
