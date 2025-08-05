@@ -77,7 +77,7 @@ subtitle = ""
   * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), IEEE: 2024, 2025
   * [Journal of Industrial Information Integration](https://www.sciencedirect.com/journal/journal-of-industrial-information-integration), Elsevier: 2025
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), Springer: 2020
-  * [International Journal of Distributed Sensor Networks (IJDSN)](https://journals.sagepub.com/loi/dsn), SAGE: 2020
+  * [International Journal of Distributed Sensor Networks (IJDSN)](https://onlinelibrary.wiley.com/journal/dsn), Wiley/SAGE: 2020
 
 **PC Co-Chair:**
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
