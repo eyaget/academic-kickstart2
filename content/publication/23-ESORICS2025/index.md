@@ -5,11 +5,11 @@ authors:
 - Daniel Reijsbergen 
 - Jianying Zhou
 title: "BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication"
-date: "2025-09-22"
+date: "2025-08-27"
 #doi: "https://doi.org/10.1145/3734864"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-09-22"
+publishDate: "2025-08-27"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
