@@ -30,8 +30,8 @@ featured: false
 links:
  #- name: Publication Site
  #  url: "https://link.springer.com/book/10.1007/978-981-19-7222-5"
- - name: Book on Amazon
-   url: "https://www.amazon.com/Proceedings-Conference-Science-Engineering-Technology/dp/9819637694"
+ #- name: Book on Amazon
+  # url: "https://www.amazon.com/Proceedings-Conference-Science-Engineering-Technology/dp/9819637694"
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_pdf: pdf/icss-final.pdf
 #url_code: '#'
