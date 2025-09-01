@@ -70,8 +70,10 @@ subtitle = ""
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Aug 2025**): 2024 -- 2025
 
 **Journal Articles Reviewer:**
+  * [ACM Computing Surveys](https://dl.acm.org/journal/csur), ACM: 2025
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
+  * [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), IEEE: 2025
   * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), IEEE: 2025
   * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), Elsevier: 2025
   * [IEEE Transactions on Computers](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=12), IEEE: 2024, 2025
