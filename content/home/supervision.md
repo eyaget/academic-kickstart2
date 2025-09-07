@@ -69,12 +69,12 @@ subtitle = ""
 **MSc Students**
   
   <!-- ***Current:*** -->
+   <!-- ***Graduated:*** -->
   * **Chen Yuanlong**, SUTD (Time of completion: *Sep 2025*)
   * **Chua Jun Xiong Glen**, SUTD (Time of completion: *Sep 2025*)
   * **Krishnan Parthipan**, SUTD (Time of completion: *Sep 2025*)
   * **Theeran Thriunathan Kunanathan**, SUTD (Time of completion: *Sep 2025*)
   * **Xiao Yuxiang**, SUTD (Time of completion: *Sep 2025*)
-  <!-- ***Graduated:*** -->
   * **Howard Halim**, SUTD (Time of completion: *Sep 2024*)
   * **Tan Jia Han**, SUTD (Time of completion: *Sep 2024*)
   * **Lukshana Subahani**, SUTD (Time of completion: *Sep 2024*)
