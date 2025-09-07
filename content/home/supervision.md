@@ -68,14 +68,14 @@ subtitle = ""
   
 **MSc Students**
   
-  ***Current:***
-  * **Chen Yuanlong**, SUTD (Expected time of completion: *Sep 2025*)
-  * **Chua Jun Xiong Glen**, SUTD (Expected time of completion: *Sep 2025*)
-  * **Krishnan Parthipan**, SUTD (Expected time of completion: *Sep 2025*)
-  * **Theeran Thriunathan Kunanathan**, SUTD (Expected time of completion: *Sep 2025*)
-  * **Xiao Yuxiang**, SUTD (Expected time of completion: *Sep 2025*)
+  <!-- ***Current:*** -->
+  * **Chen Yuanlong**, SUTD (Time of completion: *Sep 2025*)
+  * **Chua Jun Xiong Glen**, SUTD (Time of completion: *Sep 2025*)
+  * **Krishnan Parthipan**, SUTD (Time of completion: *Sep 2025*)
+  * **Theeran Thriunathan Kunanathan**, SUTD (Time of completion: *Sep 2025*)
+  * **Xiao Yuxiang**, SUTD (Time of completion: *Sep 2025*)
     
-  ***Graduated:***
+  <!-- ***Graduated:*** -->
   * **Howard Halim**, SUTD (Time of completion: *Sep 2024*)
   * **Tan Jia Han**, SUTD (Time of completion: *Sep 2024*)
   * **Lukshana Subahani**, SUTD (Time of completion: *Sep 2024*)
@@ -88,11 +88,12 @@ subtitle = ""
 * **Kunal Kumar**, SUTD (Period: *Feb 2025 --*)
 * **Shubham Sharma**, SUTD (Period: *Feb 2025 --*)
 
-**PhD Students**
+**PhD Students** (Co-Supervision/Collaboration)
 
-I have collaborated with the following PhD students at SUTD:
-  * **Xuelian Cao**, Visiting student from *Southwest University, China* (*Sep 2024 -- Feb 2025*)
-  * **Fuyi Wang**, Visiting student from *Deakin University, Australia* (*Aug 2024 -- Mar 2025*)
-  * **Jin Ma**, Intern from *Clemson University, USA* (*May 2024 -- Aug 2024*)
-  * **Ann Yi Wong**, Part-time student at *SUTD, Singapore* (*July 2021 -- Dec 2022*)
+<!-- I have collaborated with the following PhD students at SUTD: -->
+* **Zhiqiang Ma**, Visiting student from *Fujian Normal University, China* (*Sep 2025 -- Now*)
+* **Xuelian Cao**, Visiting student from *Southwest University, China* (*Sep 2024 -- Feb 2025*)
+* **Fuyi Wang**, Visiting student from *Deakin University, Australia* (*Aug 2024 -- Mar 2025*)
+* **Jin Ma**, Intern from *Clemson University, USA* (*May 2024 -- Aug 2024*)
+* **Ann Yi Wong**, Part-time student at *SUTD, Singapore* (*July 2021 -- Dec 2022*)
 
