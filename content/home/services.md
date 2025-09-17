@@ -73,6 +73,7 @@ subtitle = ""
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [ACM Computing Surveys](https://dl.acm.org/journal/csur), ACM: 2025
   * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
+  * [Journal of Computer Security](https://journals.sagepub.com/home/JCU), SAGE: 2025
   * [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755), IEEE: 2025
   * [IEEE Internet of Things Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907), IEEE: 2025
   * [Journal of Information Security and Applications](https://www.sciencedirect.com/journal/journal-of-information-security-and-applications), Elsevier: 2025
