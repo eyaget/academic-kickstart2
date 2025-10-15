@@ -5,11 +5,11 @@ authors:
 - Daniel Reijsbergen 
 - Jianying Zhou
 title: "BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication"
-date: "2025-08-27"
-#doi: "https://doi.org/10.1145/3734864"
+date: "2025-09-22"
+doi: "https://doi.org/10.1007/978-3-032-07901-5_9"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-08-27"
+publishDate: "2025-09-22"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,8 +18,8 @@ publishDate: "2025-08-27"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted at ***The 30th European Symposium on Research in Computer Security (ESORICS'25)***, Springer"
-publication_short:  "Accepted at ***The 30th European Symposium on Research in Computer Security (ESORICS'25)***, Springer"
+publication: "In ***Proceedings of the 30th European Symposium on Research in Computer Security (ESORICS'25)***, Springer"
+publication_short: "In ***Proceedings of the 30th European Symposium on Research in Computer Security (ESORICS'25)***, Springer" 
 
 abstract: "Biometric authentication is a widely used security mechanism that leverages unique physiological or behavioral characteristics to authenticate users. In multi-factor biometrics (MFB), multiple biometric modalities, e.g.,  physiological and behavioral biometrics, are integrated to mitigate the limitations inherent in single-factor biometric systems. The primary research challenge within MFB lies in identifying novel behavioral techniques capable of meeting critical criteria, including high accuracy, high usability,  non-invasiveness, resilience against spoofing and other known attacks, and low use of computational resources. Despite ongoing advancements, current behavioral biometric techniques often fall short of fulfilling one or more of these requirements. <br/><br/> 
 
