@@ -93,6 +93,7 @@ subtitle = ""
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
 **Publication Chair:**
+  * [CIMSS'26](https://cimss2026.github.io/) (Submission Deadlines: **24 Jan 2026** (Cycle 1) & **22 Mar 2026** (Cycle 2))
   * [IEEE SOLI'25](https://ieee-soli.org/2025/) (Submission Deadlines: **1 Jun 2025**)
     
 **Web Chair:**
