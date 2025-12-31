@@ -71,7 +71,7 @@ subtitle = ""
 +++
 
 ## **News:**
-* <span style="color: red;">**22 June 2025**</span>: Our research work, ***BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication***, has been accepted at [ESORICS'25](https://esorics2025.sciencesconf.org/) (a flagship conference in Cybersecurity)!
+* <span style="color: red;">**22 June 2025**</span>: Our work in multi-factor biometrics, ***BlowPrint: Blow-Based Multi-Factor Biometrics for Smartphone User Authentication***, has been accepted at [ESORICS'25](https://esorics2025.sciencesconf.org/) (a flagship conference in Cybersecurity)!
 * <span style="color: red;">**7 May 2025**</span>: Our work in MFA, [***Unveiling the Covert Vulnerabilities in Multi-Factor Authentication Protocols: A Systematic Review and Security Analysis***](https://dl.acm.org/doi/10.1145/3734864), has been published in the [ACM Computing Surveys journal](https://dl.acm.org/journal/csur) (a top-ranked journal in Computer Science with an Impact Factor of **28.0**)!
 * **3 May 2025**: I will serve as the ***Web Chair*** and ***PC Member*** of [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/). Consider submitting your latest research findings in *electronic privacy and security*. **Submission Deadline: *~~7~~ 16 Jul 2025***.
 * **15 Feb 2025**: I will serve as the ***Publication Chair*** of [IEEE SOLI'25](https://ieee-soli.org/2025/). Consider submitting your latest research work. **Submission deadline: *1 Jun 2025***.
