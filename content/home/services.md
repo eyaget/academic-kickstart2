@@ -71,6 +71,7 @@ subtitle = ""
 
 **Journal Articles Reviewer:**
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
+  * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq), IEEE: 2026
   * [ACM Computing Surveys](https://dl.acm.org/journal/csur), ACM: 2025
   * [Computers & Security](https://www.sciencedirect.com/journal/computers-and-security), Elsevier: 2024, 2025
   * [Journal of Computer Security](https://journals.sagepub.com/home/JCU), SAGE: 2025
