@@ -67,6 +67,7 @@ subtitle = ""
 +++
   <!--- <sup><span style="color:#C70039; background-color: #FFFF00">New</span></sup> --->
   # Journal
+  ## Guest Editor
 **Journal Guest Editor:**
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Apr 2026**): 2024 -- 2026
 
@@ -84,7 +85,8 @@ subtitle = ""
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), Springer: 2020
   * [International Journal of Distributed Sensor Networks (IJDSN)](https://onlinelibrary.wiley.com/journal/dsn), Wiley/SAGE: 2020
 
-**Conference PC Co-Chair:**
+# Conference 
+**Program Committee Co-Chair:**
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IRC-SET'25](https://ircset.org/main/conference-2025/)
   * [IRC-SET'24](https://ircset.org/main/conference-2024/)
@@ -94,16 +96,16 @@ subtitle = ""
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
-**Conference Publication Chair:**
+**Publication Chair:**
   * [CIMSS'26](https://cimss2026.github.io/) (Submission Deadlines: **24 Jan 2026** (Cycle 1) & **22 Mar 2026** (Cycle 2))
   * [IEEE SOLI'25](https://ieee-soli.org/2025/) (Submission Deadlines: **1 Jun 2025**)
     
-**Conference Web Chair:**
+**Web Chair:**
   * [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/) (Submission Deadline: **~~7 Jul~~ 16 Jul 2025**)
   * [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
-**Conference PC Member:**
+**Program Committee Member:**
    * [ACM CPSS'26](https://cpss26.github.io/), co-located with [ACM ASIACCS'26](https://asiaccs2026.cse.iitkgp.ac.in/) (Submission Deadline: **24 Jan 2026**)
    * [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/) (Submission Deadline: **~~7 Jul~~ 16 Jul 2025**)
   * [IWSEC'25](https://www.iwsec.org/2025/) (Submission Deadline: **3 Apr 2025** (1st Round) & **17 Jul 2025** (2nd Round))
@@ -120,7 +122,7 @@ subtitle = ""
   * [IRC-SET’19](https://ircset.org/main/conference-2019/)
   * [SecCPS’19](http://cloud.hdu.edu.cn/hase2019/SecCPS.html) (co-located with IEEE HASE’19)
 
-**Conference External Reviewer:**
+**External Reviewer:**
   * [ACM ASIACCS'26](https://asiaccs2026.cse.iitkgp.ac.in/)
   * [ISC'25](https://isc25.skku.edu/)
   * [ESORICS'25](https://esorics2025.sciencesconf.org/)
