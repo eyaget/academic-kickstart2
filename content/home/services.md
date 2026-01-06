@@ -43,7 +43,7 @@ subtitle = ""
   #   Uncomment (by removing `#`) an option to apply it.
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
-    
+   
   # Background color.
   # color = "navy"
   
@@ -68,10 +68,10 @@ subtitle = ""
   <!--- <sup><span style="color:#C70039; background-color: #FFFF00">New</span></sup> --->
   # Journal
   ## Guest Editor
-#**Journal Guest Editor:**
+<!-- **Journal Guest Editor:** -->
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Apr 2026**): 2024 -- 2026
 
-#**Journal Articles Reviewer:**
+<!-- **Journal Articles Reviewer:** -->
 ## Journal Articles Reviewer
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq), IEEE: 2026
