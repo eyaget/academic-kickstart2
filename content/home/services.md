@@ -66,6 +66,7 @@ subtitle = ""
  css_class = ""
 +++
   <!--- <sup><span style="color:#C70039; background-color: #FFFF00">New</span></sup> --->
+  # Journal
 **Journal Guest Editor:**
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Apr 2026**): 2024 -- 2026
 
