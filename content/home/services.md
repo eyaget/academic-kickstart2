@@ -68,10 +68,11 @@ subtitle = ""
   <!--- <sup><span style="color:#C70039; background-color: #FFFF00">New</span></sup> --->
   # Journal
   ## Guest Editor
-**Journal Guest Editor:**
+#**Journal Guest Editor:**
   * [Electronics](https://www.mdpi.com/journal/electronics) (Special Issue on "[New Technologies for Cybersecurity](https://www.mdpi.com/journal/electronics/special_issues/1PY32DQ2OH)", Submission Deadline: **15 Apr 2026**): 2024 -- 2026
 
-**Journal Articles Reviewer:**
+#**Journal Articles Reviewer:**
+## Journal Articles Reviewer
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206), IEEE: 2023, 2024, 2025
   * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://www.computer.org/csdl/journal/tq), IEEE: 2026
   * [ACM Computing Surveys](https://dl.acm.org/journal/csur), ACM: 2025
@@ -86,7 +87,8 @@ subtitle = ""
   * [International Journal of Distributed Sensor Networks (IJDSN)](https://onlinelibrary.wiley.com/journal/dsn), Wiley/SAGE: 2020
 
 # Conference 
-**Program Committee Co-Chair:**
+#**Program Committee Co-Chair:**
+## Program Committee Co-Chair
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IRC-SET'25](https://ircset.org/main/conference-2025/)
   * [IRC-SET'24](https://ircset.org/main/conference-2024/)
@@ -96,7 +98,8 @@ subtitle = ""
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
-**Publication Chair:**
+#**Publication Chair:**
+## Publication Chair
   * [CIMSS'26](https://cimss2026.github.io/) (Submission Deadlines: **24 Jan 2026** (Cycle 1) & **22 Mar 2026** (Cycle 2))
   * [IEEE SOLI'25](https://ieee-soli.org/2025/) (Submission Deadlines: **1 Jun 2025**)
     
