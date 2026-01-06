@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
   
-**MSc Students**
+## MSc Students
   
   <!-- ***Current:*** -->
    <!-- ***Graduated:*** -->
@@ -83,11 +83,11 @@ subtitle = ""
   * **Sim Wei Zhou**, SUTD (Time of completion: *Sep 2022*)
   * **Rajaram Thulasiraman**, SUTD (Time of completion: *Sep 2022*)
 
-**Undergraduate Interns**
+## Undergraduate Interns
 * **Kunal Kumar**, SUTD (Period: *Feb 2025 --*)
 * **Shubham Sharma**, SUTD (Period: *Feb 2025 --*)
 
-**PhD Students** (Co-Supervision/Collaboration)
+## PhD Students (Co-Supervision/Collaboration)
 
 <!-- I have collaborated with the following PhD students at SUTD: -->
 * **Zhiqiang Ma**, Visiting student from *Fujian Normal University, China* (*Sep 2025 -- Now*)
