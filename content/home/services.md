@@ -88,7 +88,7 @@ subtitle = ""
 
 # Conference 
 <!-- **Program Committee Co-Chair:** -->
-## Program Committee Co-Chair
+## PC Co-Chair
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IRC-SET'25](https://ircset.org/main/conference-2025/)
   * [IRC-SET'24](https://ircset.org/main/conference-2024/)
@@ -110,7 +110,7 @@ subtitle = ""
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
 <!-- **Program Committee Member:** -->
-## Program Committee Member
+## PC Member
    * [ACM CPSS'26](https://cpss26.github.io/), co-located with [ACM ASIACCS'26](https://asiaccs2026.cse.iitkgp.ac.in/) (Submission Deadline: **24 Jan 2026**)
    * [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/) (Submission Deadline: **~~7 Jul~~ 16 Jul 2025**)
   * [IWSEC'25](https://www.iwsec.org/2025/) (Submission Deadline: **3 Apr 2025** (1st Round) & **17 Jul 2025** (2nd Round))
