@@ -83,7 +83,7 @@ subtitle = ""
   * [Cybersecurity Journal](https://cybersecurity.springeropen.com/), Springer: 2020
   * [International Journal of Distributed Sensor Networks (IJDSN)](https://onlinelibrary.wiley.com/journal/dsn), Wiley/SAGE: 2020
 
-**Conference Program Committee Co-Chair:**
+**Conference PC Co-Chair:**
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IRC-SET'25](https://ircset.org/main/conference-2025/)
   * [IRC-SET'24](https://ircset.org/main/conference-2024/)
@@ -93,16 +93,16 @@ subtitle = ""
   * [IEEE SOLI'21](https://2021.ieee-soli.org/) 
   * [IRC-SET'21](https://ircset.org/main/conference-2021/)
 
-**Publication Chair:**
+**Conference Publication Chair:**
   * [CIMSS'26](https://cimss2026.github.io/) (Submission Deadlines: **24 Jan 2026** (Cycle 1) & **22 Mar 2026** (Cycle 2))
   * [IEEE SOLI'25](https://ieee-soli.org/2025/) (Submission Deadlines: **1 Jun 2025**)
     
-**Web Chair:**
+**Conference Web Chair:**
   * [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/) (Submission Deadline: **~~7 Jul~~ 16 Jul 2025**)
   * [ACM ASIACCS'24](https://asiaccs2024.sutd.edu.sg/) (Submission Deadlines: **21 Aug 2023** (1st Round) & **7 Dec 2023** (2nd Round))
   * [ACM CPSS'24](https://asiaccs2024.sutd.edu.sg/cpss2024/) (Submission Deadlines: **15 Jan 2024** (1st Round) & **18 Feb 2024** (2nd Round))
 
-**Conference Program Committee Member:**
+**Conference PC Member:**
    * [ACM CPSS'26](https://cpss26.github.io/), co-located with [ACM ASIACCS'26](https://asiaccs2026.cse.iitkgp.ac.in/) (Submission Deadline: **24 Jan 2026**)
    * [ACM WPES'25](http://jianying.space/WPES2025/), co-located with [ACM CCS'25](https://www.sigsac.org/ccs/CCS2025/) (Submission Deadline: **~~7 Jul~~ 16 Jul 2025**)
   * [IWSEC'25](https://www.iwsec.org/2025/) (Submission Deadline: **3 Apr 2025** (1st Round) & **17 Jul 2025** (2nd Round))
