@@ -89,6 +89,7 @@ subtitle = ""
 # Conference 
 <!-- **Program Committee Co-Chair:** -->
 ## PC Co-Chair
+  * [AI and Cybersecurity](https://www.icccs.org/Track8.html) track of [ICCCS'26](https://www.icccs.org/) ((Submission Deadline: 28 Feb 2026)
   * [ACM CPSS'25](http://jianying.space/cpss/CPSS2025/) (Submission Deadlines: **~~10~~ 20 Jan 2025** (1st Round) & **~~15~~ 25 Mar 2025** (2nd Round))
   * [IRC-SET'25](https://ircset.org/main/conference-2025/)
   * [IRC-SET'24](https://ircset.org/main/conference-2024/)
