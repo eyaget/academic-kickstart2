@@ -132,6 +132,7 @@ subtitle = ""
 <!-- **External Reviewer:** -->
 ## External Reviewer
   * [ACM ASIACCS'26](https://asiaccs2026.cse.iitkgp.ac.in/)
+  * [ACM CODASPY'26](https://www.codaspy.org/2026/)
   * [ISC'25](https://isc25.skku.edu/)
   * [ESORICS'25](https://esorics2025.sciencesconf.org/)
   * [ACM CODASPY'25](https://www.codaspy.org/2025/)
